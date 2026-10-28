@@ -1,0 +1,17 @@
+spring|春天|!a spring landscape with cherry blossoms and green grass
+summer|夏天|!a sunny summer beach with blue sea
+autumn|秋天|!an autumn park with red and yellow leaves
+winter|冬天|!a snowy winter landscape with bare trees
+morning|早晨|!a sunny morning with a rising sun over a quiet street
+night|夜晚|!a night sky with a full moon over a quiet town
+evening|傍晚|!an evening sky at dusk over a town
+above|在…上方|!a bird flying above a house
+below|在…下方|!a cat sitting below a table
+inside|在…里面|!a cat sitting inside a cardboard box
+outside|在…外面|!a cat sitting outside a cardboard box
+behind|在…后面|!a cat hiding behind a tree
+between|在…之间|!a cat sitting between two flower pots
+under|在…下面|!a cat under a table
+around|围绕|!children dancing around a tree
+through|穿过|!a train going through a tunnel
+across|穿越|!a person walking across a bridge

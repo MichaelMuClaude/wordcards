@@ -1,0 +1,99 @@
+sundae|圣代|an ice cream sundae with cherry
+lasagna|千层面|a slice of lasagna on a plate
+stew|炖菜|a bowl of beef stew
+jelly|果冻|a colorful fruit jelly dessert
+syrup|糖浆|maple syrup being poured over pancakes
+mustard|芥末酱|a jar of yellow mustard
+seaweed|海带|dried seaweed sheets
+spice|香料|small bowls of colorful spices
+mint|薄荷|fresh green mint leaves
+parsley|欧芹|a bunch of fresh parsley
+cinnamon|肉桂|cinnamon sticks
+gum|口香糖|chewing gum packs
+snack|零食|a bowl of mixed snacks
+tissue|纸巾|a box of facial tissues
+pacifier|奶嘴|a baby pacifier
+stroller|婴儿车|a baby stroller
+cradle|摇篮|a wooden baby cradle
+match|火柴|a matchbox and matches
+lighter|打火机|a lighter with a small flame
+socket|插座|a wall power socket
+wire|电线|colorful electrical wires
+dustpan|簸箕|a dustpan and brush
+lawn|草坪|!a neat green lawn in front of a house
+swing|秋千|!a children's swing in a playground
+slide|滑梯|!a children's slide in a playground
+flowerpot|花盆|a terracotta flowerpot with a plant
+face|脸|a smiling human face, close-up
+tongue|舌头|a human tongue sticking out
+lip|嘴唇|human lips with red lipstick, close-up
+neck|脖子|a human neck wearing a scarf
+shoulder|肩膀|a human shoulder
+wrist|手腕|a human wrist with a watch
+thumb|拇指|a thumbs up gesture
+stomach|胃|a hand holding a stomach
+heart|心形|a red heart shape
+muscle|肌肉|a flexed bicep muscle on an arm
+cheek|脸颊|a child's chubby cheek, close-up
+chin|下巴|a man's chin, close-up
+alarm|闹钟|an alarm clock ringing
+van|面包车|a white delivery van
+tram|有轨电车|!a city tram on tracks in a street
+crane|起重机|!a tall construction crane on a building site
+submarine|潜水艇|a submarine
+icicle|冰柱|!icicles hanging from a roof
+barbell|杠铃|a barbell with weight plates
+trombone|长号|a brass trombone
+tadpole|蝌蚪|tadpoles in water
+stork|鹳|a stork standing
+trampoline|蹦床|!a trampoline in a garden
+pug|哈巴狗|a pug dog sitting
+shoelace|鞋带|a sneaker with tied shoelaces
+hourglass|沙漏|an hourglass with sand
+stopwatch|秒表|a stopwatch
+bookmark|书签|a bookmark in an open book
+megaphone|扩音喇叭|a megaphone
+tricycle|三轮车|a child's tricycle
+surfboard|冲浪板|a surfboard standing in sand
+flagpole|旗杆|!a flagpole with a flag against a blue sky
+speedboat|快艇|!a speedboat racing on water
+bagpipe|风笛|bagpipes
+seesaw|跷跷板|!a children's seesaw in a playground
+walrus|海象|a walrus with tusks
+cymbal|镲|a pair of brass cymbals
+tambourine|铃鼓|a tambourine
+igloo|冰屋|!an igloo in the snow
+tugboat|拖船|!a tugboat on the water
+crayfish|小龙虾|a red crayfish
+pagoda|宝塔|!a Chinese pagoda
+orca|虎鲸|!an orca jumping out of the sea
+parasol|遮阳伞|a beach parasol
+stethoscope|听诊器|a stethoscope
+bonsai|盆栽|a bonsai tree in a pot
+kebab|烤肉串|grilled kebab skewers
+milkshake|奶昔|a strawberry milkshake with a straw
+popsicle|冰棍|a colorful popsicle
+mulberry|桑葚|fresh mulberries
+persimmon|柿子|orange persimmons
+guava|番石榴|a pink guava cut in half
+mandolin|曼陀林|a mandolin
+oboe|双簧管|an oboe
+tuba|大号|a brass tuba
+chain|链子|a metal chain
+hook|钩子|a metal hook
+funnel|漏斗|a funnel
+tweezers|镊子|a pair of tweezers
+magnifier|放大镜|a magnifying glass
+pipe|管子|a metal water pipe
+whisk|打蛋器|a kitchen whisk
+colander|漏盆|a colander with pasta
+tongs|夹子|kitchen tongs
+pitcher|水壶|a glass pitcher of water
+can|罐头|a tin can of food
+gift|礼物|a wrapped gift box with a ribbon
+birthday|生日|a birthday cake with lit candles
+party|派对|!a birthday party with balloons and friends
+wedding|婚礼|!a wedding ceremony with a bride and groom
+fireworks|烟花|!fireworks exploding in the night sky
+stage|舞台|!an empty theater stage with a curtain
+plant|植物|a potted green plant

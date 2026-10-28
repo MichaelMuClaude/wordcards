@@ -1,0 +1,54 @@
+spaghetti|意大利面条|a plate of spaghetti with tomato sauce
+pastry|糕点|assorted pastries on a plate
+brownie|布朗尼|chocolate brownies
+pistachio|开心果|pistachio nuts in shells
+fig|无花果|fresh figs cut open
+calf|小牛|a calf standing in a field
+piglet|小猪|a pink piglet
+duckling|小鸭|a yellow duckling
+foal|小马驹|a foal standing beside its mother
+stingray|黄貂鱼|!a stingray swimming over the sea floor
+bumblebee|大黄蜂|a bumblebee on a flower
+puma|美洲狮|a puma standing
+dachshund|腊肠犬|a dachshund dog
+projector|投影仪|a projector
+joystick|游戏摇杆|a gaming joystick
+phonograph|留声机|a vintage phonograph with a horn
+abacus|算盘|a wooden abacus
+jukebox|点唱机|a retro jukebox
+marble|弹珠|colorful glass marbles
+quill|羽毛笔|a quill pen and an inkwell
+scroll|卷轴|an old paper scroll
+stocking|长袜|a long red Christmas stocking
+gown|礼服|an evening gown on a mannequin
+veil|面纱|a white wedding veil
+beanie|针织帽|a knitted beanie hat
+goggles|护目镜|swimming goggles
+bandana|方巾|a red bandana
+turban|头巾|a colorful turban
+bikini|比基尼|a colorful bikini on a hanger
+sneaker|运动鞋|a pair of white sneakers
+escalator|自动扶梯|!an escalator in a shopping mall
+theater|剧院|!an old theater building with a red facade
+dock|码头|!a wooden dock with boats
+feed|喂|!a child feeding ducks by a pond
+row|划船|!two people rowing a boat on a lake
+sail|航行|!a sailboat sailing on the sea
+type|打字|!hands typing on a keyboard
+scratch|抓痒|!a dog scratching its ear
+touch|触摸|!a hand touching a flower
+taste|品尝|!a woman tasting soup from a spoon
+smell|闻|!a woman smelling a flower
+watch|观看|!a family watching television on a sofa
+squeeze|挤压|!hands squeezing a lemon
+peel|剥皮|!hands peeling an orange
+mix|搅拌混合|!mixing batter in a bowl with a spoon
+spill|洒出|!milk spilling from a glass
+drip|滴落|!water dripping from a faucet
+splash|溅水|!a child splashing in a puddle
+tear|撕|!hands tearing a sheet of paper
+wrap|包装|!hands wrapping a gift with paper
+bounce|弹跳|!a ball bouncing on the ground
+roll|滚动|!a ball rolling down a hill
+march|行进|!soldiers marching in a parade
+race|赛跑|!runners racing on a track

@@ -1,0 +1,11 @@
+# prompts rewritten after the first drawing round: word=prompt (a leading ! means scene style)
+book=a hardcover book with a colorful illustrated cover, standing upright
+mail=several white envelopes with stamps fanned out on a table
+chopsticks=two wooden chopsticks lying side by side on a white plate
+gum=a pack of white chewing gum sticks, one stick unwrapped
+pipe=a copper plumbing pipe with elbow joints
+scratch=!a dog scratching its ear with its hind paw
+angel=an angel figurine with white feathered wings and a golden halo
+sculptor=!a sculptor carving a marble statue with a chisel in a studio
+thin=!a very thin skinny man standing in loose clothes
+bright=!a bright sunny sky with the sun shining brightly over a green field

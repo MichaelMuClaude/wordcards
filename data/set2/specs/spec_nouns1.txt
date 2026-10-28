@@ -1,0 +1,108 @@
+table|桌子|a wooden dining table
+book|书|a hardcover book standing upright
+school|学校|!a school building with a playground and children
+church|教堂|!a village church with a steeple
+fire|火|!bright orange flames burning in a fire pit
+television|电视|a flat screen television on a stand
+radio|收音机|a vintage radio
+seat|座位|a single red theater seat
+newspaper|报纸|a folded newspaper
+university|大学|!a university campus building with a clock tower and a lawn
+forest|森林|!a green forest with tall trees and sunlight
+magazine|杂志|a stack of colorful magazines
+gold|黄金|gold bars stacked on top of each other
+ring|戒指|a gold ring with a diamond
+mail|信件|a few letters and envelopes
+baseball|棒球|a baseball and a baseball glove
+basketball|篮球|a basketball
+volleyball|排球|a volleyball
+cinema|电影院|!a cinema interior with rows of red seats and a screen
+circus|马戏团|!a colorful circus tent
+kite|风筝|!a colorful kite flying in a blue sky
+picnic|野餐|!a picnic blanket with a basket and food on the grass
+perfume|香水|a glass perfume bottle
+whistle|哨子|a metal whistle on a cord
+arch|拱门|!a stone arch gateway
+pyramid|金字塔|!an Egyptian pyramid in the desert
+coral|珊瑚|!colorful coral reef underwater
+tiger|老虎|a tiger standing
+sunrise|日出|!sunrise over the sea with an orange sky
+sunset|日落|!sunset over mountains with a red sky
+crown|王冠|a golden crown with jewels
+dragon|龙|a Chinese dragon statue
+trophy|奖杯|a golden trophy cup
+diamond|钻石|a cut diamond
+treasure|宝藏|!an open treasure chest full of gold coins
+notebook|笔记本|a notebook with a pen
+poster|海报|!a poster on a wall
+album|相册|a photo album open with photos
+battery|电池|AA batteries
+brush|梳子|a hairbrush
+park|公园|!a city park with trees, a path and benches
+harbor|港口|!a harbor with boats and cranes
+playground|游乐场|!a children's playground with a slide and swings
+clinic|诊所|!a clinic reception room with chairs
+mansion|豪宅|!a large luxury mansion with a lawn
+cable|电线|a coiled electric cable
+cube|立方体|a cube
+sphere|球体|a glass sphere
+dome|圆顶|!a building with a large dome
+money|钱|banknotes and coins
+coin|硬币|a stack of silver coins
+stamp|邮票|a postage stamp
+ticket|票|a movie ticket
+passport|护照|a passport with a boarding pass
+calendar|日历|a wall calendar
+scissors|剪刀|a pair of scissors
+laptop|笔记本电脑|a laptop computer
+printer|打印机|an office printer
+speaker|音箱|a small desktop speaker
+toaster|烤面包机|a toaster with bread
+chopsticks|筷子|a pair of wooden chopsticks
+mug|马克杯|a ceramic mug
+hotdog|热狗|a hot dog with mustard
+donut|甜甜圈|a glazed donut with sprinkles
+lime|青柠|fresh green limes
+kiwi|猕猴桃|a kiwi fruit cut in half
+lettuce|生菜|a head of green lettuce
+pea|豌豆|green peas in a pod
+waffle|华夫饼|a waffle with syrup and berries
+squid|鱿鱼|a squid
+donkey|驴|a donkey standing
+eagle|鹰|an eagle with spread wings
+whale|鲸鱼|!a whale swimming in the ocean
+starfish|海星|a starfish
+koala|考拉|a koala on a branch
+hippo|河马|a hippopotamus
+seal|海豹|a seal resting on a rock
+otter|水獭|an otter
+hedgehog|刺猬|a hedgehog
+ladybug|瓢虫|a ladybug on a leaf
+sparrow|麻雀|a sparrow
+flamingo|火烈鸟|a pink flamingo standing
+ostrich|鸵鸟|an ostrich
+pants|裤子|a pair of trousers folded
+jeans|牛仔裤|a pair of blue jeans
+pajamas|睡衣|striped pajamas
+vacuum|吸尘器|a vacuum cleaner
+hanger|衣架|a wooden clothes hanger
+saw|锯子|a hand saw
+wrench|扳手|a metal wrench
+screw|螺丝|a few metal screws
+ruler|尺子|a wooden ruler
+calculator|计算器|a pocket calculator
+stapler|订书机|a stapler
+dictionary|词典|a thick dictionary
+medal|奖牌|a gold medal with a ribbon
+puzzle|拼图|a jigsaw puzzle partly assembled
+card|纸牌|a fan of playing cards
+rose|玫瑰|a red rose
+palm|棕榈树|!a palm tree on a tropical beach
+desert|沙漠|!a sandy desert with dunes and a blue sky
+jungle|丛林|!a dense green jungle with a river
+wind|风|!trees bending in strong wind
+puddle|水坑|!a rain puddle on a street with reflections
+sign|路牌|!a road sign beside a street
+statue|雕像|a stone statue
+temple|寺庙|!a Buddhist temple with a tiled roof
+market|市场|!a busy street market with fruit stalls

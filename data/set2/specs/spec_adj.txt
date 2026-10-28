@@ -1,0 +1,65 @@
+red|红色|a still life of red objects: a tomato, a strawberry and a red rose
+yellow|黄色|a still life of yellow objects: a banana, a lemon and a sunflower
+green|绿色|a still life of green objects: a leaf, a cucumber and a green apple
+blue|蓝色|a still life of blue objects: blueberries, a blue vase and a blue flower
+purple|紫色|a still life of purple objects: grapes, an eggplant and a purple flower
+pink|粉色|a still life of pink objects: a pink flower, a pink cupcake and a pink balloon
+brown|棕色|a still life of brown objects: a chocolate bar, coffee beans and a wooden spoon
+black|黑色|a still life of black objects: a black cat, a black hat and a black umbrella
+white|白色|a still life of white objects: a white egg, white flowers and a white cup
+gray|灰色|a still life of gray objects: a gray stone, a gray wool sweater and a gray cat
+circle|圆形|a red circle shape on a white background
+square|正方形|a blue square shape on a white background
+triangle|三角形|a green triangle shape on a white background
+rectangle|长方形|a yellow rectangle shape on a white background
+oval|椭圆形|a purple oval shape on a white background
+big|大的|!a huge elephant standing next to a tiny person
+small|小的|!a tiny kitten sitting next to a big dog
+tall|高的|!a very tall giraffe
+short|矮的|!a short boy standing next to a tall man
+long|长的|!a very long train on a bridge
+heavy|重的|!a man struggling to lift a heavy weight
+light|轻的|!a feather floating in the air
+fat|胖的|!a fat orange cat sitting
+thin|瘦的|!a thin tall man in a suit
+hot|热的|a cup of steaming hot coffee
+cold|冷的|a glass of ice cold water with frost
+wet|湿的|!a wet dog shaking water after the rain
+dry|干的|!dry cracked earth in a desert
+clean|干净的|!a sparkling clean kitchen
+dirty|脏的|dirty muddy boots
+new|新的|a brand new shiny sneaker
+old|旧的|an old rusty bicycle
+happy|高兴的|!a happy smiling child
+sad|难过的|!a sad man sitting alone on a bench
+angry|生气的|!an angry man with a red face
+scared|害怕的|!a frightened child hiding under a blanket
+tired|累的|!a tired man yawning at his desk
+hungry|饿的|!a hungry child looking at a plate of food
+thirsty|渴的|!a thirsty man drinking from a water bottle
+sick|生病的|!a sick child in bed with a thermometer
+strong|强壮的|!a strong bodybuilder lifting weights
+fast|快的|!a cheetah sprinting
+slow|慢的|a snail on a leaf
+loud|吵闹的|!a crowd cheering loudly with a megaphone
+quiet|安静的|!a quiet library reading room
+empty|空的|an empty glass
+full|满的|a full glass of orange juice
+rich|富有的|!a rich man in a suit with stacks of money
+soft|软的|a soft fluffy cotton ball
+hard|硬的|a hard brick
+sharp|锋利的|a sharp kitchen knife blade
+straight|直的|!a long straight road through a field
+narrow|窄的|!a narrow wooden bridge over a stream
+wide|宽的|!a wide river
+deep|深的|!a deep blue ocean
+bright|明亮的|!the bright sun shining
+dark|黑暗的|!a dark night street
+broken|破的|a broken cup in pieces
+busy|忙的|!a busy street full of people
+lazy|懒的|a lazy cat sleeping on a sofa
+beautiful|美丽的|!a beautiful field of flowers
+sweet|甜的|a sweet cake with cream
+sour|酸的|a person tasting a sour lemon with a scrunched face
+spicy|辣的|red chili peppers
+salty|咸的|a pretzel with salt crystals

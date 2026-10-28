@@ -1,0 +1,85 @@
+run|跑步|!a man running on a road
+walk|走路|!a woman walking on a path in a park
+jump|跳|!a boy jumping in the air
+swim|游泳|!a swimmer swimming in a pool
+climb|攀爬|!a climber climbing a rock wall
+dance|跳舞|!a woman dancing
+sing|唱歌|!a girl singing into a microphone
+eat|吃|!a man eating a sandwich at a table
+drink|喝|!a woman drinking water from a glass
+sleep|睡觉|!a person sleeping in a bed
+cook|做饭|!a chef cooking in a kitchen
+bake|烘焙|!a woman putting a tray of bread into an oven
+wash|洗|!hands being washed under a faucet
+read|阅读|!a boy reading a book
+write|写字|!a person writing with a pen on paper
+draw|画画|!a child drawing with colored pencils
+cut|切|!hands cutting vegetables with a knife
+dig|挖|!a man digging with a shovel in a garden
+throw|扔|!a man throwing a ball
+catch|接住|!a boy catching a ball
+kick|踢|!a boy kicking a soccer ball
+push|推|!a person pushing a shopping cart
+pull|拉|!two men pulling a rope
+carry|搬|!a man carrying a heavy box
+lift|举起|!a man lifting a barbell
+open|打开|!a hand opening a door
+sit|坐|!a woman sitting on a chair
+stand|站|!a man standing
+wave|挥手|!a girl waving her hand
+smile|微笑|!a woman smiling
+laugh|大笑|!a group of friends laughing
+cry|哭|!a child crying
+hug|拥抱|!two friends hugging
+kiss|亲吻|!a mother kissing her baby's cheek
+point|指|!a hand pointing a finger
+listen|听|!a woman listening to music with headphones
+talk|说话|!two people talking at a table
+shout|喊叫|!a man shouting with hands around his mouth
+sneeze|打喷嚏|!a woman sneezing into a tissue
+yawn|打哈欠|!a man yawning
+shake|握手|!two people shaking hands
+knock|敲|!a hand knocking on a door
+ride|骑|!a person riding a bicycle
+drive|开车|!a woman driving a car
+skate|滑冰|!a girl ice skating
+surf|冲浪|!a surfer riding a wave
+dive|潜水|!a scuba diver underwater
+crawl|爬行|!a baby crawling on the floor
+bend|弯腰|!a person bending forward
+stretch|伸展|!a woman stretching her arms
+tie|系|!hands tying a shoelace
+fold|折叠|!hands folding a towel
+pour|倒|!water being poured from a jug into a glass
+stir|搅拌|!stirring soup in a pot with a spoon
+sweep|扫地|!a person sweeping a floor with a broom
+sew|缝|!hands sewing with a needle and thread
+pick|摘|!a girl picking apples from a tree
+hang|挂|!hanging a picture on a wall
+build|建造|!a worker building a brick wall
+fix|修理|!a mechanic fixing a car engine
+buy|买|!a woman paying at a shop counter
+sell|卖|!a vendor selling fruit at a market
+play|玩|!children playing in a park
+hold|拿着|!hands holding a cup
+hit|打|!a man hitting a nail with a hammer
+wake|醒来|!a woman waking up and stretching in bed
+hide|躲藏|!a child hiding behind a tree
+chase|追|!a dog chasing a ball
+bite|咬|!a person biting into an apple
+blow|吹|!a girl blowing out birthday candles
+wait|等|!a man waiting at a bus stop
+celebrate|庆祝|!people celebrating with confetti
+boil|煮沸|!water boiling in a pot
+melt|融化|!an ice cube melting
+burn|燃烧|!a log burning in a fire
+fall|掉落|!autumn leaves falling from a tree
+float|漂浮|!a leaf floating on water
+bloom|开花|!a flower blooming
+grow|生长|!a seedling growing from the soil
+clap|鼓掌|!people clapping their hands
+kneel|跪|!a man kneeling on one knee
+lean|倚靠|!a man leaning against a wall
+spin|旋转|!a girl spinning in a dress
+tickle|挠痒|!a dad tickling his laughing child
+pack|打包|!a person packing a suitcase

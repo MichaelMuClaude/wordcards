@@ -1,0 +1,72 @@
+man|男人|a man standing and smiling
+woman|女人|a woman standing and smiling
+boy|男孩|a happy boy
+girl|女孩|a happy girl
+baby|婴儿|a smiling baby
+child|孩子|a child holding a toy
+mother|妈妈|a mother holding her baby
+father|爸爸|a father carrying his child on his shoulders
+brother|哥哥弟弟|two brothers laughing together
+sister|姐姐妹妹|two sisters hugging
+uncle|叔叔|a friendly uncle
+aunt|阿姨|a friendly aunt
+grandmother|奶奶|an elderly grandmother smiling
+grandfather|爷爷|an elderly grandfather with glasses
+twin|双胞胎|two identical twin girls
+teenager|青少年|a teenager with headphones
+teacher|老师|!a teacher standing in front of a blackboard in a classroom
+student|学生|a student with a backpack and books
+doctor|医生|a smiling doctor in a white coat with a stethoscope
+nurse|护士|a smiling nurse in uniform
+dentist|牙医|a dentist with a mask and dental tools
+farmer|农民|!a farmer in a field holding a basket of vegetables
+chef|厨师|a chef in a white hat and uniform
+waiter|服务员|a waiter carrying a tray of drinks
+pilot|飞行员|a pilot in uniform with a cap
+driver|司机|!a bus driver at the wheel
+policeman|警察|a policeman in uniform
+firefighter|消防员|a firefighter in a helmet and gear
+soldier|士兵|a soldier in camouflage uniform
+sailor|水手|a sailor in a navy uniform
+fisherman|渔夫|!a fisherman holding a fishing net on a boat
+astronaut|宇航员|an astronaut in a spacesuit
+scientist|科学家|a scientist in a lab coat with a test tube
+engineer|工程师|an engineer in a hard hat with blueprints
+architect|建筑师|an architect with building plans
+programmer|程序员|!a programmer working at a computer
+photographer|摄影师|a photographer holding a camera
+painter|画家|a painter with a brush and palette
+singer|歌手|a singer holding a microphone
+dancer|舞者|a ballet dancer in a pose
+musician|音乐家|a musician playing a violin
+pianist|钢琴家|!a pianist playing a grand piano
+drummer|鼓手|!a drummer playing a drum kit
+actor|演员|an actor on a stage
+clown|小丑|a clown with a red nose and colorful wig
+king|国王|a king wearing a crown and a red robe
+prince|王子|a prince in royal clothes
+princess|公主|a princess in a pink gown and a tiara
+pirate|海盗|a pirate with an eye patch and a hat
+cowboy|牛仔|a cowboy with a hat and boots
+witch|女巫|a witch with a pointed hat and broomstick
+angel|天使|an angel with white wings
+librarian|图书管理员|!a librarian in a library holding books
+butcher|屠夫|a butcher in an apron with a cleaver
+carpenter|木匠|!a carpenter cutting wood with a saw
+gardener|园丁|!a gardener watering flowers
+mechanic|机修工|a mechanic in overalls with a wrench
+miner|矿工|a miner with a helmet lamp and a pickaxe
+tailor|裁缝|a tailor with a measuring tape
+shepherd|牧羊人|!a shepherd with a flock of sheep
+boxer|拳击手|a boxer in gloves in a fighting stance
+swimmer|游泳运动员|a swimmer in goggles and a swim cap
+skier|滑雪者|!a skier going down a snowy slope
+golfer|高尔夫球手|!a golfer swinging a club on a golf course
+referee|裁判|a referee with a whistle
+tourist|游客|a tourist with a camera and a map
+passenger|乘客|!a passenger with a suitcase at an airport
+bride|新娘|a bride in a white dress with a bouquet
+lawyer|律师|a lawyer in a suit with a briefcase
+judge|法官|a judge in a black robe with a gavel
+bartender|调酒师|a bartender making a cocktail
+sculptor|雕塑家|a sculptor carving a stone
