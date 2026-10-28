@@ -1,0 +1,12 @@
+KEEP: nail napkin necklace necktie needle nest net noodle nose notepad nut
+HINT: nail=iron nails in a pile
+HINT: napkin=a folded cloth napkin on a plate
+HINT: necklace=a pearl necklace
+HINT: necktie=a red necktie
+HINT: needle=a sewing needle with thread
+HINT: nest=a bird nest with eggs
+HINT: net=a fishing net
+HINT: noodle=a bowl of noodles with chopsticks
+HINT: nose=a human nose, close-up
+HINT: notepad=a spiral notepad with a pen
+HINT: nut=a mix of walnuts and other nuts

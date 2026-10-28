@@ -1,0 +1,9 @@
+KEEP: valley vase vegetable vest vinegar vineyard violin volcano
+HINT: valley=a green mountain valley
+HINT: vase=a flower vase with flowers
+HINT: vegetable=a basket of fresh vegetables
+HINT: vest=a knit vest
+HINT: vinegar=a bottle of vinegar
+HINT: vineyard=a vineyard with grapevines
+HINT: violin=a violin with a bow
+HINT: volcano=an erupting volcano

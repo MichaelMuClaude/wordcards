@@ -1,0 +1,3 @@
+KEEP: yacht yogurt
+HINT: yacht=a white yacht at sea
+HINT: yogurt=a bowl of yogurt with fruit

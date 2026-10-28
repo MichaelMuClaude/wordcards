@@ -1,0 +1,17 @@
+KEEP: daffodil daisy dandelion dart deer desk diaper dice dinner dinosaur dish dishwasher dog doll dolphin door doorbell doorknob dough dove dragonfly drawer dress dresser drill driveway drum drugstore dryer duck dumbbell dumpling dune dam
+HINT: dart=a dartboard with darts
+HINT: dinner=a family dinner table with roast chicken and vegetables
+HINT: dish=a stack of white ceramic dishes
+HINT: dryer=a clothes dryer machine
+HINT: drill=an electric power drill
+HINT: dress=a summer dress on a hanger
+HINT: dresser=a bedroom dresser with drawers
+HINT: dove=a white dove
+HINT: dumpling=steamed Chinese dumplings in a bamboo steamer
+HINT: dune=sand dunes in a desert
+HINT: dam=a concrete dam with water flowing
+HINT: dough=a ball of bread dough on a floured table
+HINT: diaper=a baby diaper
+HINT: doll=a rag doll toy
+HINT: drum=a snare drum with drumsticks
+HINT: drugstore=a pharmacy drugstore storefront

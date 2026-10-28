@@ -1,0 +1,24 @@
+KEEP: hair ham hamburger hammer hammock hamster hand handbag handkerchief harmonica harp hat hawk hazelnut heater helicopter helmet hen highway hill honey horse horseshoe hose hospital hotel house hummingbird hut hydrant headphone
+HINT: hair=long brown hair
+HINT: hand=an open human hand
+HINT: hat=a straw sun hat
+HINT: heater=an electric room heater
+HINT: hose=a green garden hose coiled up
+HINT: hydrant=a red fire hydrant on a sidewalk
+HINT: headphone=over-ear headphones
+HINT: helmet=a bicycle helmet
+HINT: hill=green rolling hills
+HINT: highway=a multi-lane highway with cars
+HINT: honey=a jar of honey with a wooden dipper
+HINT: horseshoe=a metal horseshoe
+HINT: hammock=a hammock between two palm trees
+HINT: hotel=a hotel building
+HINT: house=a family house with a garden
+HINT: hut=a small straw hut
+HINT: hawk=a hawk in flight
+HINT: hen=a brown hen
+HINT: hamster=a hamster eating a nut
+HINT: hospital=a hospital building
+HINT: harp=a concert harp
+HINT: handkerchief=a white cotton handkerchief
+HINT: handbag=a leather handbag

@@ -1,0 +1,5 @@
+KEEP: zebra zipper zoo zucchini
+HINT: zipper=a metal zipper, close-up
+HINT: zoo=a zoo entrance with animals
+HINT: zucchini=fresh zucchini
+HINT: zebra=a zebra

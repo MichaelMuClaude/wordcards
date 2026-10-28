@@ -1,0 +1,26 @@
+KEEP: wagon wall wallet walnut wardrobe water waterfall watermelon well wheat wheel wheelbarrow wheelchair wig windmill window wine wing wok wolf woodpecker wool worm wreath wristwatch
+HINT: wagon=a wooden wagon
+HINT: wall=a brick wall
+HINT: wallet=a leather wallet
+HINT: walnut=walnuts in shells
+HINT: wardrobe=a wooden wardrobe
+HINT: water=a glass of water
+HINT: waterfall=a waterfall in a forest
+HINT: watermelon=a sliced watermelon
+HINT: well=a stone water well
+HINT: wheat=a field of golden wheat
+HINT: wheel=a bicycle wheel
+HINT: wheelbarrow=a wheelbarrow in a garden
+HINT: wheelchair=a wheelchair
+HINT: wig=a long wig on a stand
+HINT: windmill=a windmill
+HINT: window=a window with curtains
+HINT: wine=a glass of red wine with a bottle
+HINT: wing=a bird wing spread
+HINT: wok=a wok with stir-fried vegetables
+HINT: wolf=a grey wolf
+HINT: woodpecker=a woodpecker on a tree
+HINT: wool=a ball of wool yarn
+HINT: worm=an earthworm
+HINT: wreath=a Christmas wreath
+HINT: wristwatch=a wristwatch

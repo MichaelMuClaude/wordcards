@@ -1,0 +1,8 @@
+KEEP: jacket jaguar jam jar jeep jellyfish jewelry jug juice
+HINT: jacket=a denim jacket
+HINT: jam=a jar of strawberry jam
+HINT: jar=a glass jar with a lid
+HINT: jewelry=a gold necklace and rings
+HINT: jug=a ceramic water jug
+HINT: juice=a glass of orange juice
+HINT: jeep=a jeep off-road vehicle

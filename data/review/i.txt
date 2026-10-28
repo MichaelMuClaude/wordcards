@@ -1,0 +1,5 @@
+KEEP: ice iceberg iguana insect iron island
+HINT: ice=ice cubes in a glass
+HINT: iron=a household clothes iron
+HINT: insect=a colorful insect on a leaf
+HINT: island=a tropical island with palm trees

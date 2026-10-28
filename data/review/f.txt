@@ -1,0 +1,19 @@
+KEEP: factory fan farm farmhouse faucet feather fedora fence fern ferry fiddle finger fireplace firefly fish fist flag flashlight floor flour flower flute fly fog foot fork fountain fox frame freezer fridge frog fruit
+HINT: fiddle=a violin
+HINT: fedora=a brown fedora hat
+HINT: fan=an electric standing fan
+HINT: frame=a wooden picture frame
+HINT: flag=a national flag on a pole
+HINT: floor=a polished wooden floor
+HINT: fly=a housefly on a surface
+HINT: fog=a misty foggy morning landscape
+HINT: flower=a single red flower
+HINT: fruit=a bowl of mixed fruit
+HINT: fist=a clenched human fist
+HINT: finger=a human hand pointing with the index finger
+HINT: faucet=a kitchen faucet with running water
+HINT: fountain=a stone fountain with water
+HINT: flour=a bag of flour with a scoop
+HINT: fish=a fish swimming underwater
+HINT: fern=a green fern plant
+HINT: foot=a bare human foot

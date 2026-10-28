@@ -1,0 +1,18 @@
+KEEP: oak oar oatmeal ocean octopus office okra olive omelet onion orange orchard orchid oven overcoat owl oyster
+HINT: oak=a big oak tree
+HINT: oar=a wooden boat oar
+HINT: oatmeal=a bowl of oatmeal with berries
+HINT: ocean=ocean waves at sunset
+HINT: octopus=an octopus underwater
+HINT: office=a modern office with desks and computers
+HINT: okra=fresh okra pods
+HINT: olive=green and black olives
+HINT: omelet=an omelet on a plate
+HINT: onion=a red onion cut in half
+HINT: orange=a fresh orange fruit
+HINT: orchard=an apple orchard with trees
+HINT: orchid=a purple orchid
+HINT: oven=a kitchen oven
+HINT: overcoat=a long wool overcoat
+HINT: owl=an owl perched on a branch
+HINT: oyster=fresh oysters on ice

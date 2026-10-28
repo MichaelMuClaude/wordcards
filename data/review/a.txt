@@ -1,0 +1,11 @@
+REMOVE: abbey abdomen abrasive abyss accelerator accessory acid actuator acumen adamant addition adjunct adobe adornment adrenaline aerosol affinity aftermath agent aggregate air aircraft airfield airline airliner airlock airstrip airway alcohol alcove alder ale alfalfa alleyway allergen alloy alum aluminum amalgam ammo ammonia ammunition amphetamine amphitheater amplifier amulet analyzer anchovy anesthetic annex annual antibiotic antibody antidote antigen antihistamine antioxidant antiseptic anvil aperture aphid apparatus appendage apparel appetizer appliance aquatic arbor arc arcade archipelago architecture archway argentine ark armament armor armrest arroyo arsenal arsenic art artery artillery asbestos ascent ash aspen asphalt ass assembly asteroid atom atrium attire attraction audiotape auditorium auto automatic automobile axle azalea
+HINT: aisle=a supermarket aisle with shelves of goods
+HINT: alley=a narrow city alley between brick buildings
+HINT: antenna=a TV antenna mounted on a rooftop
+HINT: apartment=an apartment building exterior
+HINT: aquarium=a home fish tank aquarium with colorful fish
+HINT: acorn=an acorn nut with its cap, on an oak leaf
+HINT: almond=a small pile of almonds
+HINT: ape=an ape sitting on the ground
+HINT: aspirin=a few white aspirin tablets next to a blister pack
+HINT: arugula=a bunch of fresh arugula leaves

@@ -1,0 +1,11 @@
+KEEP: kangaroo kayak ketchup kettle key keyboard kimono kitchen kitten knee knife knitting
+HINT: kayak=a kayak on a calm lake
+HINT: ketchup=a bottle of tomato ketchup
+HINT: kettle=an electric kettle
+HINT: keyboard=a computer keyboard
+HINT: key=a metal door key
+HINT: kimono=a traditional Japanese kimono
+HINT: kitchen=a modern kitchen
+HINT: knee=a human knee
+HINT: knife=a kitchen knife
+HINT: knitting=knitting needles and a ball of yarn

@@ -1,0 +1,16 @@
+REMOVE: backdrop backwater baggage bale ballast ballpark ballroom balm bandanna banister banner bar barge bark barley barometer barricade barrier base basin bath bathhouse baton battleship bayonet bayou bazaar beachfront bead beagle bedding bedrock bedspread beech beeper beef belly beluga bender beverage biceps bike bile binder biomass birch bistro blackjack blacktop bladder blade bleachers block blockbuster blood bloodstream blower bluegrass bluff boa boardroom boardwalk boater bodice body bog boiler bolster bolt bomb bomber bonanza bond bonnet bookcase booth bough boulevard boutique bow bowel boxcar bra brace brainchild brake bran brandy brass breast breech breeze brew brewery bridle brim brine brisket bristle broach brocade broiler bronze brooch broth brothel brow brownstone brunch buck buckle bud buffalo buffer buffet bug builder bulkhead bulldog bullet bullpen bulwark bumper bungalow bunk bunker burlap burner burr burrow butt buttermilk buttery buttocks buttress buzzer bypass
+HINT: bank=a bank building exterior with a sign
+HINT: barbecue=a backyard barbecue grill with grilled meat
+HINT: bat=a bat hanging upside down from a branch
+HINT: bean=a pile of mixed dried beans
+HINT: beaver=a beaver gnawing on a log
+HINT: biscuit=a plate of baked biscuits
+HINT: blazer=a navy blazer jacket on a hanger
+HINT: blender=a kitchen blender with fruit smoothie
+HINT: blossom=pink cherry blossoms on a branch
+HINT: boulder=a large boulder in a field
+HINT: braid=a long braided hair plait
+HINT: bubble=soap bubbles floating in the air
+HINT: bulb=an incandescent light bulb, glowing
+HINT: bison=an American bison standing in a meadow
+HINT: bun=a freshly baked bread bun

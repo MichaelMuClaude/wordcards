@@ -1,0 +1,10 @@
+KEEP: ear earphone earring easel egg eggplant elbow elephant elevator envelope eraser espresso extinguisher eye eyebrow eyeglass eyelash
+HINT: earphone=a pair of earphones
+HINT: egg=a fresh brown chicken egg
+HINT: elevator=an elevator with open doors
+HINT: envelope=a white paper envelope
+HINT: espresso=a cup of espresso coffee
+HINT: extinguisher=a red fire extinguisher
+HINT: eyeglass=a pair of eyeglasses
+HINT: ear=a human ear, close-up
+HINT: eye=a human eye, close-up

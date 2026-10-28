@@ -1,0 +1,19 @@
+KEEP: garage garbage garden garlic gate gem ginger gingerbread giraffe glacier glass glove globe goat goldfish gondola goose gorilla grape grapefruit grass grasshopper greenhouse grill grocery guitar gym glue
+HINT: garbage=a green garbage bin with a lid
+HINT: gate=a wooden garden gate
+HINT: gem=a sparkling cut gemstone
+HINT: glass=a clear drinking glass of water
+HINT: glove=a pair of leather gloves
+HINT: globe=a desk globe of the Earth
+HINT: gondola=a Venetian gondola on a canal
+HINT: grill=a charcoal barbecue grill with flames
+HINT: grocery=a paper grocery bag full of vegetables
+HINT: gym=a gym with weights and machines
+HINT: glue=a bottle of white school glue
+HINT: glacier=a blue glacier
+HINT: garage=a house garage with a car inside
+HINT: grass=a green lawn of grass
+HINT: garlic=bulbs of garlic
+HINT: ginger=a fresh ginger root
+HINT: gingerbread=a gingerbread man cookie
+HINT: goose=a white goose
