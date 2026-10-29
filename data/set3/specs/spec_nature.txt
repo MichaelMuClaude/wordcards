@@ -1,0 +1,42 @@
+stone|石头|a smooth grey stone
+log|圆木|a cut wooden log
+branch|树枝|a tree branch with green leaves
+stump|树桩|!a tree stump in a forest
+bush|灌木|!a green bush in a garden
+moss|苔藓|a patch of green moss on a rock
+vine|藤蔓|!green vines climbing up a stone wall
+weed|杂草|!weeds growing through a crack in a pavement
+haystack|干草堆|!a round haystack in a golden field
+bud|花蕾|a pink flower bud on a branch
+sprout|嫩芽|a green sprout growing in soil
+thorn|刺|a rose stem with sharp thorns
+lavender|薰衣草|!a field of purple lavender
+poppy|罂粟花|a red poppy flower
+violet|紫罗兰|a small purple violet flower
+ivy|常春藤|!ivy leaves covering a brick wall
+meadow|草地|!a green meadow with wildflowers
+field|田野|!a wide golden wheat field under blue sky
+swamp|沼泽|!a misty swamp with trees standing in water
+stream|小溪|!a clear stream flowing over rocks in a forest
+geyser|间歇泉|!a geyser erupting hot water and steam
+reef|珊瑚礁|!a colorful coral reef with fish underwater
+bay|海湾|!a curved sandy bay with blue water
+oasis|绿洲|!an oasis with palm trees and water in the desert
+plateau|高原|!a flat high plateau with rocky cliffs
+peak|山峰|!a snow-covered mountain peak
+trail|小径|!a hiking trail through a pine forest
+pearl|珍珠|a white pearl
+crystal|水晶|a clear quartz crystal cluster
+coal|煤|a pile of black coal
+clay|黏土|a lump of wet brown clay
+mud|泥|!thick brown mud with a boot print
+dust|灰尘|!dust floating in a beam of sunlight
+flame|火焰|a single candle flame in the dark
+spark|火花|!sparks flying from a campfire at night
+steam|蒸汽|a cup of hot tea with steam rising
+mist|薄雾|!morning mist over a lake
+frost|霜|!frost covering a green leaf
+hail|冰雹|!hailstones lying on the grass
+thunder|雷|!a dark thundercloud with lightning over a field
+shadow|影子|!a long shadow of a person on a sidewalk
+ripple|涟漪|!ripples spreading on the surface of a pond

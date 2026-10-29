@@ -10,6 +10,9 @@ OVERRIDE = {
     "laptop": "/ˈlæptɒp/", "hotdog": "/ˈhɒtdɒɡ/", "milkshake": "/ˈmɪlkʃeɪk/", "goggles": "/ˈɡɒɡlz/",
     "guava": "/ˈɡwɑːvə/", "trampoline": "/ˈtræmpəliːn/", "desert": "/ˈdezət/", "plant": "/plɑːnt/",
     "piglet": "/ˈpɪɡlɪt/", "row": "/rəʊ/", "tear": "/tɛə/", "photographer": "/fəˈtɒɡrəfə/", "dance": "/dɑːns/",
+    "seahorse": "/ˈsiːhɔːs/", "overalls": "/ˈəʊvərɔːlz/", "suspenders": "/səˈspendəz/", "leggings": "/ˈleɡɪŋz/",
+    "fries": "/fraɪz/", "ribs": "/rɪbz/", "bored": "/bɔːd/", "ruins": "/ˈruːɪnz/",
+    "grater": "/ˈɡreɪtə/", "flan": "/flæn/", "ranch": "/rɑːntʃ/", "buoy": "/bɔɪ/", "mow": "/məʊ/", "sow": "/səʊ/",
 }
 
 

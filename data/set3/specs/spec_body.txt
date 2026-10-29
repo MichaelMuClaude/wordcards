@@ -1,0 +1,21 @@
+forehead|额头|a close-up of a person's forehead and eyebrows
+waist|腰|a woman's waist with a belt
+hip|臀部|a person standing with hands on the hips
+thigh|大腿|a person's thigh in shorts
+heel|脚后跟|a bare human heel
+nostril|鼻孔|a close-up of a human nose with nostrils
+eyelid|眼睑|a close-up of a human closed eyelid with eyelashes
+fingernail|指甲|a hand with painted pink fingernails
+fingerprint|指纹|a fingerprint pressed on a glass surface
+freckle|雀斑|a close-up of a face with freckles
+dimple|酒窝|a smiling girl's cheek with a dimple
+wrinkle|皱纹|a close-up of an old man's wrinkled face
+tattoo|文身|an arm with a tattoo
+skull|头骨|a human skull model
+rib|肋骨|a rib cage bone model
+spine|脊柱|a spine bone model
+lung|肺|a model of human lungs
+navel|肚脐|a person's belly button
+belly|肚子|a round belly
+bruise|淤青|a purple bruise on an arm
+scar|疤痕|a small scar on a knee

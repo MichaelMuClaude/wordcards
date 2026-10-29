@@ -1,0 +1,51 @@
+papaya|木瓜|a halved papaya showing black seeds
+lychee|荔枝|a bunch of lychee fruits, one peeled
+durian|榴莲|a spiky durian fruit cut open
+nectarine|油桃|a ripe nectarine
+pomelo|柚子|a large pomelo with some peeled segments
+turnip|萝卜|a white and purple turnip
+yam|山药|a brown yam, sliced to show the inside
+squash|南瓜类蔬菜|a yellow butternut squash
+shallot|小葱头|a few shallots
+fries|薯条|a paper cone of french fries
+nugget|鸡块|golden fried chicken nuggets with a dipping sauce
+taco|墨西哥卷饼|a taco filled with meat, lettuce and tomato
+ramen|拉面|a bowl of ramen noodles with an egg and green onion
+gelato|意式冰淇淋|a cup of colorful gelato scoops
+custard|蛋奶羹|a bowl of yellow custard
+tart|水果塔|a small fruit tart with strawberries
+pecan|美洲山核桃|a handful of pecan nuts
+chips|薯片|potato chips spilling from a bowl
+ribs|排骨|a rack of barbecue pork ribs
+drumstick|鸡腿|a fried chicken drumstick
+cider|苹果酒|a glass of apple cider with an apple
+smoothie|冰沙|a green smoothie in a glass with a straw
+cocoa|热可可|a mug of hot cocoa with marshmallows
+soda|汽水|a glass of soda with ice and bubbles
+cream|奶油|a bowl of whipped cream
+tortilla|玉米饼|a stack of round tortillas
+pita|皮塔饼|pita bread filled with falafel
+crepe|可丽饼|a folded crepe with strawberries and powdered sugar
+scone|司康饼|a scone with jam and cream
+eclair|闪电泡芙|a chocolate eclair
+truffle|松露巧克力|chocolate truffles dusted with cocoa
+toffee|太妃糖|wrapped toffee candies
+caramel|焦糖|a bowl of golden caramel sauce
+fudge|软糖块|squares of chocolate fudge
+licorice|甘草糖|black licorice twists
+flan|焦糖布丁|a caramel flan on a plate
+granola|麦片脆|a bowl of granola with yogurt and berries
+pesto|青酱|a jar of green basil pesto
+salsa|莎莎酱|a bowl of tomato salsa with tortilla chips
+guacamole|牛油果酱|a bowl of guacamole with tortilla chips
+hummus|鹰嘴豆泥|a bowl of hummus with olive oil
+sauce|酱汁|a white pitcher pouring red tomato sauce
+broth|肉汤|a bowl of clear chicken broth
+quiche|咸派|a slice of quiche on a plate
+salami|萨拉米|sliced salami on a wooden board
+jerky|肉干|strips of beef jerky
+caviar|鱼子酱|a small bowl of black caviar with a spoon
+dessert|甜点|a plate of chocolate cake with a scoop of ice cream
+feast|盛宴|!a big feast on a long table full of food
+buffet|自助餐|!a buffet table with many dishes
+oil|油|a bottle of golden olive oil

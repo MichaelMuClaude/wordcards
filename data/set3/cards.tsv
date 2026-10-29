@@ -1,0 +1,501 @@
+word	ipa	zh	kind	rank	scene	prompt
+yak	/jæk/	牦牛	thing	21408	y	a yak with long shaggy fur standing on a mountain meadow
+ox	/ɒks/	公牛	thing	0	y	a brown ox with big horns standing in a field
+buffalo	/ˈbʌfələʊ/	水牛	thing	6081	y	a water buffalo standing in a muddy field
+toucan	/ˈtuːkən/	巨嘴鸟	thing	33976		a toucan with a large colorful orange beak perched on a branch
+cardinal	/ˈkɑːdɪnəl/	北美红雀	thing	15572		a bright red cardinal bird perched on a snowy branch
+magpie	/ˈmægpaɪ/	喜鹊	thing	26656		a black and white magpie perched on a branch
+kingfisher	/ˈkɪŋfɪʃə/	翠鸟	thing	25174		a blue and orange kingfisher perched on a branch over water
+heron	/ˈherən/	苍鹭	thing	14851	y	a grey heron standing in shallow water
+vulture	/ˈvʌltʃə/	秃鹫	thing	12983		a vulture perched on a dead branch
+falcon	/ˈfɔːlkən/	猎鹰	thing	14005		a falcon perched on a gloved hand
+seahorse	/ˈsiːhɔːs/	海马	thing	26882		a seahorse floating in clear blue water
+clam	/klæm/	蛤蜊	thing	10109		an open clam shell on wet sand
+scallop	/ˈskɒləp/	扇贝	thing	12363		a scallop shell on a white background
+eel	/iːl/	鳗鱼	thing	13160		a snake-like eel with a long curved body swimming near a coral reef
+trout	/traʊt/	鳟鱼	thing	5046		a rainbow trout fish underwater
+sloth	/sləʊθ/	树懒	thing	19039		a sloth hanging from a tree branch
+armadillo	/ɑːməˈdɪləʊ/	犰狳	thing	23816		an armadillo walking on the ground
+porcupine	/ˈpɔːkjʊpaɪn/	豪猪	thing	19692		a porcupine with long sharp quills
+skunk	/skʌŋk/	臭鼬	thing	14568		a black and white skunk with a bushy tail
+badger	/ˈbædʒə/	獾	thing	21256		a badger walking in grass
+weasel	/ˈwiːzl/	黄鼠狼	thing	17242		a weasel standing up on its hind legs
+mole	/məʊl/	鼹鼠	thing	8789		a mole with velvety dark fur and pink front paws coming out of a mound of soil
+lemur	/ˈliːmə/	狐猴	thing	27452		a ring-tailed lemur sitting on a branch
+meerkat	/ˈmɪəkæt/	猫鼬	thing	35221		a meerkat standing upright on sandy ground
+hyena	/haɪˈiːnə/	鬣狗	thing	17254	y	a spotted hyena standing in dry grass
+panther	/ˈpænθə/	黑豹	thing	14654	y	a black panther walking
+lynx	/lɪŋks/	山猫	thing	22097	y	a lynx with tufted ears standing in snow
+gazelle	/gəˈzel/	瞪羚	thing	22494	y	a gazelle standing on the savanna
+chameleon	/kəˈmiːlɪən/	变色龙	thing	17020		a green chameleon on a branch
+gecko	/ˈgekəʊ/	壁虎	thing	24351		a gecko clinging to a wall
+salamander	/sæləˈmændə/	蝾螈	thing	17804		an orange salamander on a mossy rock
+tortoise	/ˈtɔːtəs/	陆龟	thing	13299		a tortoise with a domed shell walking on grass
+wasp	/wɒsp/	黄蜂	thing	11805		a wasp with yellow and black stripes on a leaf
+scorpion	/ˈskɔːpɪən/	蝎子	thing	17316		a scorpion with raised tail on sand
+centipede	/ˈsentɪpiːd/	蜈蚣	thing	0		a centipede crawling on a rock
+slug	/slʌg/	蛞蝓	thing	10241		a slug on a green leaf
+mantis	/ˈmæntɪs/	螳螂	thing	27784		a green praying mantis on a leaf
+ram	/ræm/	公羊	thing	12064	y	a ram with big curled horns standing on a hill
+stallion	/ˈstæljən/	种马	thing	14932	y	a black stallion galloping in a field
+shrimp	/ʃrɪmp/	虾	thing	4144		a pink cooked shrimp
+fawn	/fɔːn/	小鹿	thing	18845	y	a spotted fawn lying in the grass
+cub	/kʌb/	幼崽	thing	10403	y	a lion cub sitting in the grass
+stone	/stəʊn/	石头	thing	1220		a smooth grey stone
+log	/lɒg/	圆木	thing	3423		a cut wooden log
+branch	/bræntʃ/	树枝	thing	1807		a leafy tree branch seen up close against a blue sky
+stump	/stʌmp/	树桩	thing	7320	y	a tree stump in a forest
+bush	/bʊʃ/	灌木	thing	34013	y	a green bush in a garden
+moss	/mɒs/	苔藓	thing	8708		a patch of green moss on a rock
+vine	/vaɪn/	藤蔓	thing	5675	y	green vines climbing up a stone wall
+weed	/wiːd/	杂草	thing	4545	y	weeds growing through a crack in a pavement
+haystack	/ˈheɪstæk/	干草堆	thing	19464	y	a round haystack in a golden field
+bud	/bʌd/	花蕾	thing	6961		a pink flower bud on a branch
+sprout	/spraʊt/	嫩芽	thing	7981		a green sprout growing in soil
+thorn	/θɔːn/	刺	thing	11159		a rose stem with sharp thorns
+lavender	/ˈlævɪndə/	薰衣草	thing	8172	y	a field of purple lavender
+poppy	/ˈpɒpɪ/	罂粟花	thing	12051		a red poppy flower
+violet	/ˈvaɪəlɪt/	紫罗兰	thing	14924		a small purple violet flower
+ivy	/ˈaɪvɪ/	常春藤	thing	9013	y	ivy leaves covering a brick wall
+meadow	/ˈmedəʊ/	草地	thing	5581	y	a green meadow with wildflowers
+field	/fiːld/	田野	thing	439	y	a wide golden wheat field under blue sky
+swamp	/swɒmp/	沼泽	thing	6335	y	a misty swamp with trees standing in water
+stream	/striːm/	小溪	thing	2231	y	a clear stream flowing over rocks in a forest
+geyser	/ˈgaɪzə/	间歇泉	thing	16661	y	a geyser erupting hot water and steam
+reef	/riːf/	珊瑚礁	thing	6352	y	a colorful coral reef with fish underwater
+bay	/beɪ/	海湾	thing	23460	y	a curved sandy bay with blue water
+oasis	/əʊˈeɪsɪs/	绿洲	thing	10318	y	an oasis with palm trees and water in the desert
+plateau	/plæˈtəʊ/	高原	thing	8339	y	a flat high plateau with rocky cliffs
+peak	/piːk/	山峰	thing	2364	y	a snow-covered mountain peak
+trail	/treɪl/	小径	thing	1646	y	a hiking trail through a pine forest
+pearl	/pɜːl/	珍珠	thing	45772		a white pearl
+crystal	/ˈkrɪstl/	水晶	thing	3574		a clear quartz crystal cluster
+coal	/kəʊl/	煤	thing	3336		a pile of black coal
+clay	/kleɪ/	黏土	thing	4771		hands shaping a lump of wet brown clay on a pottery wheel
+mud	/mʌd/	泥	thing	3610	y	thick brown mud with a boot print
+dust	/dʌst/	灰尘	thing	2263	y	dust floating in a beam of sunlight
+flame	/fleɪm/	火焰	thing	3199		a single candle flame in the dark
+spark	/spɑːk/	火花	thing	4805	y	sparks flying from a campfire at night
+steam	/stiːm/	蒸汽	thing	4139		a cup of hot tea with steam rising
+mist	/mɪst/	薄雾	thing	5967	y	morning mist over a lake
+frost	/frɒst/	霜	thing	21397	y	frost covering a green leaf
+hail	/heɪl/	冰雹	thing	6105	y	hailstones lying on the grass
+thunder	/ˈθʌndə/	雷	thing	8090	y	a dark thundercloud with lightning over a field
+shadow	/ˈʃædəʊ/	影子	thing	1668	y	a long shadow of a person on a sidewalk
+ripple	/ˈrɪpl/	涟漪	thing	8123	y	ripples spreading on the surface of a pond
+doormat	/ˈdɔːmæt/	门垫	thing	24418		a doormat in front of a front door
+blinds	/ˈblaɪndz/	百叶窗	thing	0	y	window blinds with sunlight coming through
+duvet	/duːˈveɪ/	被子	thing	26843		a white duvet folded on a bed
+plunger	/ˈplʌndʒə/	搋子	thing	26773		a toilet plunger with a red rubber cup
+hairbrush	/ˈhɛəbrʌʃ/	发梳	thing	26181		a wooden hairbrush
+lotion	/ˈləʊʃən/	乳液	thing	10544		a white bottle of hand lotion with a pump
+toothpick	/ˈtuːθpɪk/	牙签	thing	13691		several wooden toothpicks in a small cup
+bib	/bɪb/	围兜	thing	20446		a baby bib with a duck pattern
+radiator	/ˈreɪdɪeɪtə/	暖气片	thing	13342		a white radiator heater on a wall
+saucer	/ˈsɔːsə/	茶碟	thing	10769		a white tea cup on a saucer
+teacup	/ˈtiːkʌp/	茶杯	thing	17510		a floral porcelain teacup
+teaspoon	/ˈtiːspuːn/	茶匙	thing	2432		a silver teaspoon
+goblet	/ˈgɒblɪt/	高脚杯	thing	16341		a glass goblet
+carafe	/kəˈræf/	玻璃水瓶	thing	26092		a glass carafe filled with water
+skewer	/skjuːə/	烤串	thing	12721		two metal skewers with grilled meat and vegetables
+grater	/ˈɡreɪtə/	擦丝器	thing	26740		a metal box grater with cheese
+peeler	/ˈpiːlə/	削皮器	thing	20931		a vegetable peeler with a carrot
+cleaver	/ˈkliːvə/	菜刀	thing	20393		a kitchen cleaver on a cutting board
+mortar	/ˈmɔːtə/	研钵	thing	8303		a stone mortar and pestle with spices
+pestle	/ˈpesl/	研杵	thing	25914		a wooden pestle beside a mortar
+sieve	/sɪv/	筛子	thing	17578		a metal sieve with flour
+mixer	/ˈmɪksə/	搅拌机	thing	8987		a stand mixer in a kitchen
+lunchbox	/ˈlʌntʃˌbɔks/	午餐盒	thing	27527		an open lunchbox with a sandwich and fruit
+canteen	/kænˈtiːn/	水壶	thing	15582		a metal canteen water bottle
+lid	/lɪd/	盖子	thing	4658		a pot lid
+cork	/kɔːk/	软木塞	thing	12801		a wine cork beside a bottle
+coupon	/ˈkuːpɒn/	优惠券	thing	10119		a paper discount coupon
+banknote	/ˈbæŋknəʊt/	钞票	thing	28997		a stack of banknotes
+remote	/rɪˈməʊt/	遥控器	thing	2778		a TV remote control
+charger	/ˈtʃɑːdʒə/	充电器	thing	16169		a phone charger with a cable
+monitor	/ˈmɒnɪtə/	显示器	thing	2349		a computer monitor on a desk
+tripod	/ˈtraɪpɒd/	三脚架	thing	11681		a camera on a tripod
+candlestick	/ˈkændlstɪk/	烛台	thing	17734		a brass candlestick holding a lit candle
+bin	/bɪn/	垃圾桶	thing	0		a grey trash bin with a lid
+hamper	/ˈhæpə/	洗衣篮	thing	9044		a wicker laundry hamper with clothes
+clothespin	/ˈkləjðzpɪn/	晾衣夹	thing	25888		wooden clothespins on a line
+bookcase	/ˈbʊkkeɪs/	书柜	thing	12527	y	a tall wooden bookcase full of books
+cot	/kɒt/	婴儿床	thing	10493		a white baby cot
+scale	/skeɪl/	体重秤	thing	1223		a bathroom scale
+playpen	/ˈpleɪpen/	游戏围栏	thing	24218		a baby playpen with toys
+coaster	/ˈkəʊstə/	杯垫	thing	9679		a cup of tea on a round coaster
+juicer	/ˈdʒuːsə/	榨汁机	thing	30837		an orange juicer with fresh oranges
+shaker	/ˈʃeɪkə/	调料瓶	thing	14441		a glass salt shaker
+pillowcase	/ˈpɪləjkeɪs/	枕套	thing	18021		a striped pillow in a pillowcase
+cutlery	/ˈkʌtlərɪ/	餐具	thing	22380		a knife, fork and spoon laid out neatly
+hoodie	/ˈhjdɪ/	连帽衫	thing	31271		a grey hooded sweatshirt
+overalls	/ˈəʊvərɔːlz/	背带裤	thing	0		blue denim overalls
+underwear	/ˈʌndəwɛə/	内衣裤	thing	6524		a pair of folded plain white cotton boxer briefs
+cape	/keɪp/	披风	thing	8474		a red superhero cape
+poncho	/ˈpɒntʃəʊ/	斗篷雨披	thing	18895		a colorful woven poncho
+visor	/ˈvaɪzə/	遮阳帽	thing	13899		a white sun visor cap
+suspenders	/səˈspendəz/	吊带	thing	18585		red suspenders on a white shirt
+loafer	/ˈləʊfə/	乐福鞋	thing	15021		a brown leather loafer shoe
+bonnet	/ˈbɒnɪt/	软帽	thing	15125		a baby bonnet hat
+headband	/ˈhedbænd/	发带	thing	17989		a pink headband
+wristband	/ˈrɪstbænd/	护腕	thing	28305		a blue sports wristband
+brooch	/brəʊtʃ/	胸针	thing	16633		a gold brooch with a gem
+pendant	/ˈpendənt/	吊坠	thing	13335		a silver pendant necklace
+tiara	/tɪˈɑːrə/	王冠头饰	thing	22553		a sparkling silver tiara
+leggings	/ˈleɡɪŋz/	紧身裤	thing	0		black leggings
+tights	/taɪts/	连裤袜	thing	14298		a pair of tights
+suitcase	/ˈsjuːtkeɪs/	行李箱	thing	5600		a hard shell suitcase with wheels
+satchel	/ˈsætʃəl/	书包	thing	16862		a brown leather satchel
+pouch	/paʊtʃ/	小袋	thing	9335		a small leather pouch with a drawstring
+papaya	/pəˈpaɪə/	木瓜	thing	16175		a halved papaya showing black seeds
+lychee	/ˈliːtʃiː/	荔枝	thing	34302		a bunch of lychee fruits, one peeled
+durian	/ˈduːrɪən/	榴莲	thing	44003		a spiky durian fruit cut open
+nectarine	/ˈnektəriːn/	油桃	thing	30573		a ripe nectarine
+pomelo	/ˈpɒmələʊ/	柚子	thing	0		a large pomelo with some peeled segments
+turnip	/ˈtɜːnɪp/	萝卜	thing	15232		a white and purple turnip
+yam	/jæm/	山药	thing	14670		a brown yam, sliced to show the inside
+squash	/skwɒʃ/	南瓜类蔬菜	thing	6923		a yellow butternut squash
+shallot	/ʃəˈlɒt/	小葱头	thing	11062		a few shallots
+fries	/fraɪz/	薯条	thing	0		a paper cone of french fries
+nugget	/ˈnʌgɪt/	鸡块	thing	15671		golden fried chicken nuggets with a dipping sauce
+taco	/ˈtɑːkəʊ/	墨西哥卷饼	thing	12360		a taco filled with meat, lettuce and tomato
+ramen	/ˈrɑːmen/	拉面	thing	0		a bowl of ramen noodles with an egg and green onion
+gelato	/dʒeˈlɑːtəʊ/	意式冰淇淋	thing	28684		a cup of colorful gelato scoops
+custard	/ˈkʌstəd/	蛋奶羹	thing	13196		a glass bowl of vanilla custard pudding with a spoon lifting out a scoop
+tart	/tɑːt/	水果塔	thing	9921		a small fruit tart with strawberries
+pecan	/pɪˈkæn/	美洲山核桃	thing	8286		a handful of pecan nuts
+chips	/tʃɪps/	薯片	thing	0		potato chips spilling from a bowl
+ribs	/rɪbz/	排骨	thing	0		a rack of barbecue pork ribs
+drumstick	/ˈdrʌmstɪk/	鸡腿	thing	19645		a fried chicken drumstick
+cider	/ˈsaɪdə/	苹果酒	thing	10172		a glass of apple cider with an apple
+smoothie	/ˈsmuːðɪ/	冰沙	thing	25268		a green smoothie in a glass with a straw
+cocoa	/ˈkəʊkəʊ/	热可可	thing	8963		a mug of hot cocoa with marshmallows
+soda	/ˈsəʊdə/	汽水	thing	5125		a glass of soda with ice and bubbles
+cream	/kriːm/	奶油	thing	2008		a bowl of whipped cream
+tortilla	/tɔːˈtɪlə/	玉米饼	thing	8052		a stack of round tortillas
+pita	/ˈpiːtə/	皮塔饼	thing	16904		pita bread filled with falafel
+crepe	/kreɪp/	可丽饼	thing	13430		a folded crepe with strawberries and powdered sugar
+scone	/skəʊn/	司康饼	thing	19670		a scone with jam and cream
+eclair	/ɪˈkleə(r)/	闪电泡芙	thing	34361		a chocolate eclair
+truffle	/ˈtrʌfl/	松露巧克力	thing	15061		chocolate truffles dusted with cocoa
+toffee	/ˈtɒfiː/	太妃糖	thing	26525		wrapped toffee candies
+caramel	/ˈkærəmel/	焦糖	thing	14369		a bowl of golden caramel sauce
+fudge	/fʌdʒ/	软糖块	thing	14638		squares of chocolate fudge
+licorice	/ˈlɪkərɪs/	甘草糖	thing	20961		black licorice twists
+flan	/flæn/	焦糖布丁	thing	25492		a caramel flan on a plate
+granola	/ɡrəˈnəʊlə/	麦片脆	thing	19572		a bowl of granola with yogurt and berries
+pesto	/ˈpestəj/	青酱	thing	13186		a jar of green basil pesto
+salsa	/ˈsɑːlsə/	莎莎酱	thing	8579		a bowl of tomato salsa with tortilla chips
+guacamole	/ˌgwækəˈməʊleɪ/	牛油果酱	thing	22108		a bowl of guacamole with tortilla chips
+hummus	/ˈhʊməs/	鹰嘴豆泥	thing	24752		a bowl of hummus with olive oil
+sauce	/sɔːs/	酱汁	thing	2289		a white pitcher pouring red tomato sauce
+broth	/brɒθ/	肉汤	thing	5690		a bowl of clear chicken broth
+quiche	/kiːʃ/	咸派	thing	22740		a slice of quiche on a plate
+salami	/səˈlɑːmɪ/	萨拉米	thing	18767		sliced salami on a wooden board
+jerky	/ˈdʒɜːkɪ/	肉干	thing	15283		strips of beef jerky
+caviar	/ˈkævɪɑː/	鱼子酱	thing	14204		a small bowl of black caviar with a spoon
+dessert	/dɪˈzɜːt/	甜点	thing	4269		a plate of chocolate cake with a scoop of ice cream
+feast	/fiːst/	盛宴	thing	5910	y	a big feast on a long table full of food
+buffet	/ˈbʌfɪt/	自助餐	thing	8330	y	a buffet table with many dishes
+oil	/ɒɪl/	油	thing	546		a bottle of golden olive oil
+laundry	/ˈlɔːndrɪ/	洗衣房	thing	4940	y	a laundromat with rows of washing machines
+salon	/ˈsælɔːŋ/	美发店	thing	6915	y	a hair salon with chairs and mirrors
+florist	/ˈflɒrɪst/	花店	thing	14041	y	a florist shop with buckets of flowers
+kindergarten	/ˈkɪndəgɑːtn/	幼儿园	thing	6121	y	a bright kindergarten classroom with small tables and toys
+cafeteria	/kæfɪˈtɪərɪə/	食堂	thing	7076	y	a school cafeteria with long tables
+lobby	/ˈlɒbɪ/	大堂	thing	3736	y	a hotel lobby with sofas and a reception desk
+corridor	/ˈkɒrɪdɔː/	走廊	thing	3474	y	a long corridor with doors on both sides
+terrace	/ˈterəs/	露台	thing	6431	y	a terrace with chairs and plants overlooking a garden
+rooftop	/ˈruːftɒp/	屋顶	thing	8587	y	a rooftop with city skyline views
+cellar	/ˈselə/	地窖	thing	7671	y	a stone cellar with wine barrels
+pantry	/ˈpæntrɪ/	食品柜	thing	10360	y	a pantry shelf full of jars and food
+studio	/ˈstjuːdɪəʊ/	工作室	thing	1515	y	an artist studio with paintings and an easel
+stable	/ˈsteɪbl/	马厩	thing	2903	y	a horse stable with a horse looking out
+campsite	/kæmpˈsaɪt/	营地	thing	11353	y	a campsite with a tent and a campfire
+crosswalk	/ˈkrɒswɔːk/	人行横道	thing	24852	y	a pedestrian crosswalk with white stripes on asphalt and people walking across
+intersection	/ɪntəˈsekʃən/	十字路口	thing	5760	y	a busy street intersection with traffic lights
+village	/ˈvɪlɪdʒ/	村庄	thing	1245	y	a small village with houses and a church among hills
+city	/ˈsɪtɪ/	城市	thing	290	y	a big city with tall buildings at sunset
+skyline	/ˈskaɪlaɪn/	天际线	thing	9513	y	a city skyline at dusk across a river
+plaza	/ˈplɑːzə/	广场	thing	7095	y	a large town plaza with a fountain and people
+arena	/əˈriːnə/	竞技场	thing	3590	y	a big sports arena full of spectators
+ruins	/ˈruːɪnz/	废墟	thing	0	y	ancient stone ruins with columns
+fortress	/ˈfɔːtrɪs/	堡垒	thing	9115	y	a stone fortress on a hill
+paddy	/ˈpædɪ/	稻田	thing	16666	y	green rice paddies in terraces
+ranch	/rɑːntʃ/	牧场	thing	4036	y	a ranch with a wooden fence and horses
+warehouse	/ˈwɛəhaʊs/	仓库	thing	4922	y	a warehouse full of stacked boxes on shelves
+workshop	/ˈwɜːkʃɒp/	作坊	thing	3130	y	a woodworking workshop with tools on the wall
+villa	/ˈvɪlə/	别墅	thing	10076	y	a modern villa with a swimming pool
+bungalow	/ˈbʌŋgələʊ/	平房	thing	10710	y	a small bungalow house with a porch
+treehouse	/triːˈhaʊs/	树屋	thing	25039	y	a wooden treehouse in a big tree
+limousine	/ˈlɪməziːn/	豪华轿车	thing	9586	y	a long black limousine on a street
+pickup	/ˈpɪkʌp/	皮卡车	thing	3802	y	a red pickup truck on a country road
+trailer	/ˈtreɪlə/	拖车	thing	4062	y	a small white camping trailer parked on grass
+caravan	/ˈkærəvæn/	房车	thing	10211	y	a single white caravan parked by a lake
+trolley	/ˈtrɒlɪ/	电车	thing	12139	y	an old trolley car on tracks in a city street
+monorail	/ˈmɒnəreɪl/	单轨列车	thing	24844	y	a monorail train on an elevated track
+blimp	/blɪmp/	飞艇	thing	22457	y	a white blimp flying in a blue sky
+glider	/ˈglaɪdə/	滑翔机	thing	16453	y	a white sailplane glider aircraft with long thin wings flying over mountains
+jet	/dʒet/	喷气式飞机	thing	3144	y	a jet plane flying in a blue sky
+propeller	/prəˈpelə/	螺旋桨	thing	12524		a three-blade metal propeller
+hovercraft	/ˈhʌvəkræft/	气垫船	thing	30629	y	a hovercraft on the sea
+steamboat	/ˈstiːmbəʊt/	蒸汽船	thing	19755	y	a paddle steamboat on a river
+lifeboat	/ˈlaɪfbəjt/	救生艇	thing	15782		an orange lifeboat on a ship deck
+buoy	/bɔɪ/	浮标	thing	14024	y	a red and white buoy floating in the sea
+forklift	/ˈfɔːklɪft/	叉车	thing	19751	y	a yellow forklift lifting boxes in a warehouse
+sleigh	/sleɪ/	雪橇	thing	16769	y	a wooden sleigh in the snow
+carriage	/ˈkærɪdʒ/	马车	thing	6534	y	a horse-drawn carriage on a street
+rickshaw	/ˈrɪkʃɔː/	人力车	thing	23031	y	a rickshaw on a city street
+snowmobile	/ˈsnəʊməʊbiːl/	雪地摩托	thing	13718	y	a snowmobile in the snow
+rake	/reɪk/	耙子	thing	8861		a garden rake
+anvil	/ˈænvɪl/	铁砧	thing	17970		an iron blacksmith anvil
+spade	/speɪd/	铁锹	thing	13365		a garden spade stuck in soil
+trowel	/ˈtraʊəl/	小铲	thing	19546		a small garden trowel
+sickle	/sɪkl/	镰刀	thing	15609		a curved sickle
+pitchfork	/ˈpɪtʃfɔːk/	干草叉	thing	22185		a farmer's pitchfork with three long iron tines leaning against a barn wall
+chisel	/ˈtʃɪzəl/	凿子	thing	16996		a wood chisel with a wooden handle
+pickaxe	/ˈpɪˌkæks/	鹤嘴锄	thing	32809		a pickaxe
+crowbar	/ˈkrəjbɑː(r)/	撬棍	thing	20329		a steel crowbar
+sandpaper	/ˈsændpeɪpə/	砂纸	thing	18636		a sheet of sandpaper
+padlock	/ˈpædlɒk/	挂锁	thing	21685		a brass padlock
+hatchet	/ˈhætʃɪt/	短柄斧	thing	17797		a hatchet stuck in a log
+arrow	/ˈærəʊ/	箭	thing	4832		a leather quiver full of arrows with feather fletching
+target	/ˈtɑːgɪt/	靶子	thing	1281	y	an archery target with arrows in it
+dartboard	/ˈdɑːtbɔːd/	飞镖盘	thing	36868		a dartboard with darts
+bowling	/ˈbəʊlɪŋ/	保龄球	thing	7944	y	bowling pins and a bowling ball on a lane
+tennis	/ˈtenɪs/	网球	thing	3082	y	a tennis ball and a racket on a tennis court
+golf	/gɒlf/	高尔夫	thing	1801	y	a golf ball on a tee on a green course
+hockey	/ˈhɒkɪ/	曲棍球	thing	4349	y	an ice hockey stick and puck on ice
+badminton	/ˈbædmɪntən/	羽毛球	thing	20115		a badminton racket and a shuttlecock
+goalpost	/ˈgəʊlpəʊst/	球门	thing	29521	y	a soccer goalpost with a net on a field
+podium	/ˈpəʊdɪəm/	领奖台	thing	7960	y	a winners podium with first, second and third places
+archery	/ˈɑːtʃərɪ/	射箭	thing	19386	y	a woman shooting an arrow with a bow
+boxing	/ˈbɒksɪŋ/	拳击	thing	5637	y	two boxers in a ring
+yoga	/ˈjəʊgə/	瑜伽	thing	7878	y	a woman doing yoga on a mat
+xylophone	/ˈzaɪləfəʊn/	木琴	thing	28390		a colorful xylophone with mallets
+ukulele	/juːkəˈleɪlɪ/	尤克里里	thing	27343		a small wooden ukulele
+bugle	/bjuːgl/	军号	thing	21910		a brass bugle
+metronome	/ˈmetrənəʊm/	节拍器	thing	24971		a wooden metronome
+turntable	/ˈtɜːnteɪbl/	唱机	thing	18124		a turntable playing a vinyl record
+orchestra	/ˈɔːkɪstrə/	管弦乐队	thing	5347	y	an orchestra playing on a stage
+choir	/ˈkwaɪə/	合唱团	thing	5331	y	a choir singing together in robes
+concert	/ˈkɒnsət/	音乐会	thing	2515	y	a concert with a crowd and stage lights
+teddy	/ˈtedɪ/	泰迪熊	thing	10599		a teddy bear
+rattle	/ˈrætl/	拨浪鼓	thing	5452		a baby rattle
+blocks	/ˈblɔks/	积木	thing	0		colorful wooden toy blocks stacked up
+sandbox	/ˈsændbɒks/	沙坑	thing	18906	y	a sandbox with a bucket and a shovel
+sandcastle	/ˈsændkɑːs(ə)l/	沙堡	thing	38388	y	a sandcastle on a beach
+puppet	/ˈpʌpɪt/	木偶	thing	7250		a hand puppet
+pinwheel	/ˈpɪnhwiːl/	风车玩具	thing	25772		a colorful pinwheel
+dominoes	/ˈdɒmɪnəʊz/	多米诺骨牌	thing	0		dominoes standing in a row
+checkers	/ˈtʃekəz/	跳棋	thing	0		a checkers game on a board with round red and black discs
+jigsaw	/ˈdʒɪgsɔː/	拼图	thing	15739		a jigsaw puzzle partly assembled
+folder	/ˈfəʊldə/	文件夹	thing	7114		a manila file folder with papers sticking out
+binder	/ˈbaɪndə/	活页夹	thing	12699		a blue three-ring binder with the metal rings open
+paperclip	/ˈpeɪpəklɪp/	回形针	thing	36728		a metal paperclip
+pushpin	/ˈpʊʃpɪn/	图钉	thing	36161		red pushpins in a cork board
+highlighter	/ˈhaɪlaɪtə/	荧光笔	thing	29693		a yellow highlighter pen
+sticker	/ˈstɪkə/	贴纸	thing	6709		colorful stickers on a sheet
+protractor	/prəʊˈtræktə/	量角器	thing	38827		a clear protractor
+beaker	/ˈbiːkə/	烧杯	thing	22497		a glass beaker with blue liquid
+flask	/flæsk/	烧瓶	thing	14030		a glass flask with green liquid
+sharpener	/ˈʃɑːpnə/	卷笔刀	thing	28736		a pencil sharpener with a pencil
+whiteboard	/ˈhwaɪtbɔːd/	白板	thing	29163	y	a whiteboard on a classroom wall
+postcard	/ˈpəʊstkɑːd/	明信片	thing	6924		a postcard with a beach picture
+parcel	/ˈpɑːsl/	包裹	thing	7729		a brown paper parcel tied with string
+unicorn	/ˈjuːnɪkɔːn/	独角兽	thing	17309	y	a white unicorn with a rainbow mane in a meadow
+mermaid	/ˈmɜːmeɪd/	美人鱼	thing	17705	y	a mermaid sitting on a rock by the sea
+fairy	/ˈfɛərɪ/	仙女	thing	6368	y	a fairy with wings in a forest
+ghost	/gəʊst/	幽灵	thing	3266	y	a white ghost floating in a dark room
+skeleton	/ˈskelətn/	骷髅	thing	6474		a human skeleton model
+monster	/ˈmɒnstə/	怪物	thing	3565	y	a friendly furry green monster
+sword	/sɔːd/	剑	thing	4105		a steel sword
+shield	/ˈʃiːld/	盾牌	thing	5606		a medieval shield
+armor	/ˈɑːmə/	盔甲	thing	5785		a suit of medieval armor
+cannon	/ˈkænən/	大炮	thing	8430		an old cannon on a wooden wheeled carriage
+ornament	/ˈɔːnəmənt/	装饰球	thing	7737		a red Christmas ornament hanging on a tree
+wand	/wɒnd/	魔杖	thing	12268		a magic wand with a glowing star tip
+campfire	/ˈkæmpfaɪə/	篝火	thing	11052	y	a campfire burning at night with logs
+forehead	/ˈfɔːrɪd/	额头	thing	3788		a close-up of a person's forehead and eyebrows
+waist	/weɪst/	腰	thing	4304		a woman's waist with a belt
+hip	/hɪp/	臀部	thing	2603		a person standing with hands on the hips
+thigh	/θaɪ/	大腿	thing	4209		a person's thigh in shorts
+heel	/hiːl/	脚后跟	thing	3056		a bare human heel
+nostril	/ˈnɒstrɪl/	鼻孔	thing	8649		a close-up of a human nose with nostrils
+eyelid	/ˈaɪlɪd/	眼睑	thing	8666		a close-up of a human closed eyelid with eyelashes
+fingernail	/ˈfɪŋgəneɪl/	指甲	thing	7769		a hand with painted pink fingernails
+fingerprint	/ˈfɪŋgəprɪnt/	指纹	thing	7263		a fingerprint pressed on a glass surface
+freckle	/ˈfrekl/	雀斑	thing	13714		a close-up of a face with freckles
+dimple	/ˈdɪmpl/	酒窝	thing	16600		a smiling girl's cheek with a dimple
+wrinkle	/ˈrɪŋkl/	皱纹	thing	7819		a close-up of an old man's wrinkled face
+tattoo	/təˈtuː/	文身	thing	6033		an arm with a tattoo
+skull	/skʌl/	头骨	thing	4244		a human skull model
+rib	/rɪb/	肋骨	thing	4568		a rib cage bone model
+spine	/spaɪn/	脊柱	thing	4904		a spine bone model
+lung	/lʌŋ/	肺	thing	3247		a model of human lungs
+navel	/ˈneɪvl/	肚脐	thing	13927		a person's belly button
+belly	/ˈbelɪ/	肚子	thing	3805		a man with a round belly wearing a tight t-shirt, torso only
+bruise	/bruːz/	淤青	thing	7621		a purple bruise on an arm
+scar	/skɑː/	疤痕	thing	5026		a close-up of a man's knee with a long raised pink surgical scar
+surgeon	/ˈsɜːdʒən/	外科医生	person	3413	y	a surgeon in green scrubs and mask in an operating room
+plumber	/ˈplʌmə/	水管工	person	11990	y	a plumber fixing a pipe under a sink
+electrician	/ɪlekˈtrɪʃən/	电工	person	13255	y	an electrician working on a power box
+cashier	/kæˈʃɪə/	收银员	person	11211	y	a cashier at a supermarket checkout
+barber	/ˈbɑːbə/	理发师	person	9131	y	a barber cutting a man's hair
+baker	/ˈbeɪkə/	面包师	person	10129	y	a baker holding fresh bread in a bakery
+hairdresser	/ˈhɛədresə/	美发师	person	14832	y	a hairdresser styling a woman's hair
+janitor	/ˈdʒænɪtə/	清洁工	person	11334	y	a janitor mopping a hallway floor
+postman	/ˈpəʊstmən/	邮递员	person	20141	y	a postman delivering mail at a front door
+guard	/gɑːd/	警卫	person	1284	y	a security guard in uniform standing at a door
+lifeguard	/ˈlaɪfgɑːd/	救生员	person	15934	y	a lifeguard sitting on a tower at a beach
+coach	/kəʊtʃ/	教练	person	1033	y	a sports coach with a whistle on a field
+conductor	/kənˈdʌktə/	指挥	person	5912	y	an orchestra conductor raising a baton
+magician	/məˈdʒɪʃən/	魔术师	person	9416	y	a magician pulling a rabbit from a top hat
+acrobat	/ˈækrəbæt/	杂技演员	person	19213	y	an acrobat balancing on a rope
+hunter	/ˈhʌntə/	猎人	person	3030	y	a hunter in a forest
+detective	/dɪˈtektɪv/	侦探	person	3793	y	a detective with a magnifying glass
+thief	/θiːf/	小偷	person	5007	y	a thief in a black mask sneaking at night
+model	/ˈmɒdəl/	模特	person	504	y	a fashion model on a runway
+reporter	/rɪˈpɔːtə/	记者	person	1286	y	a reporter holding a microphone
+vet	/vet/	兽医	person	8077	y	a veterinarian examining a dog
+pharmacist	/ˈfɑːməsɪst/	药剂师	person	10343	y	a pharmacist behind a counter with medicine
+monk	/mʌŋk/	僧人	person	5856	y	a monk in an orange robe
+gymnast	/ˈdʒɪmnæst/	体操运动员	person	16144	y	a gymnast doing a split in the air
+cyclist	/ˈsaɪklɪst/	骑行者	person	9646	y	a cyclist riding a road bike
+runner	/ˈrʌnə/	跑步者	person	4214	y	a runner jogging on a trail
+diver	/ˈdaɪvə/	潜水员	person	8238	y	a diver underwater with an air tank
+toddler	/ˈtɔdlə/	学步的孩子	person	5916		a toddler taking first steps
+crowd	/kraʊd/	人群	person	1270	y	a crowd of people on a street
+couple	/ˈkʌpl/	情侣	person	531	y	a couple walking together holding hands
+neighbor	/ˈneɪbə/	邻居	person	1424	y	two neighbors chatting over a garden fence
+customer	/ˈkʌstəmə/	顾客	person	1098	y	a customer shopping in a store
+patient	/ˈpeɪʃənt/	病人	person	572	y	a patient lying in a hospital bed
+queen	/ˈkwiːn/	女王	person	43081	y	a fictional fantasy queen, a young woman with a golden crown and a red velvet gown, standing in a throne room
+knight	/naɪt/	骑士	person	27105	y	a knight in armor on a horse
+wizard	/ˈwɪzəd/	巫师	person	9502	y	a wizard with a long beard and a pointed hat
+surprised	/səˈpraɪzd/	惊讶的	person	1920		a close-up portrait of a young man looking surprised with eyes wide and mouth open
+bored	/bɔːd/	无聊的	person	5873		a close-up portrait of a bored young woman resting her chin on her hand
+excited	/ɪkˈsaɪtɪd/	兴奋的	person	3426		a close-up portrait of an excited girl with arms raised and a big smile
+nervous	/ˈnɜːvəs/	紧张的	person	2393		a close-up portrait of a nervous man biting his nails
+proud	/praʊd/	自豪的	person	1983		a close-up portrait of a proud woman smiling with her chin up
+shy	/ʃaɪ/	害羞的	person	4407		a close-up portrait of a shy girl looking down and smiling
+jealous	/ˈdʒeləs/	嫉妒的	person	6322		a close-up portrait of a jealous woman with narrowed eyes
+worried	/ˈwʌrɪd/	担心的	person	3261		a close-up portrait of a worried man with a furrowed brow
+lonely	/ˈləʊnlɪ/	孤独的	person	4002	y	a lonely man sitting alone on a bench in a park
+embarrassed	/ɪmˈbærəst/	尴尬的	person	4601		a close-up portrait of an embarrassed woman covering her face with blushing cheeks
+confused	/kənˈfjuːzd/	困惑的	person	5646		a close-up portrait of a confused man scratching his head
+sleepy	/ˈsliːpɪ/	困倦的	person	7429		a close-up portrait of a sleepy woman yawning with heavy eyelids
+cheer	/tʃɪə/	欢呼	action	4621	y	a crowd of fans cheering with raised arms
+skip	/skɪp/	跳绳	action	4519	y	a girl skipping rope
+hop	/hɒp/	单脚跳	action	5647	y	a boy hopping on one foot
+tiptoe	/ˈtɪptəʊ/	踮脚走	action	13538	y	a child tiptoeing across a room
+limp	/lɪmp/	瘸着走	action	9496	y	a man limping with a crutch
+wink	/wɪŋk/	眨一只眼	action	7901		a close-up portrait of a young woman winking
+frown	/fraʊn/	皱眉	action	4784		a close-up portrait of a man frowning
+peek	/piːk/	偷看	action	7431	y	a child peeking from behind a door
+whisper	/ˈhwɪspə/	低语	action	2446	y	a girl whispering into a friend's ear
+wipe	/waɪp/	擦	action	2711	y	a person wiping a table with a cloth
+scrub	/skrʌb/	刷洗	action	7546	y	a person scrubbing a pot in a sink
+rinse	/rɪns/	冲洗	action	7024	y	a person rinsing vegetables under a tap
+chop	/tʃɒp/	剁	action	3964	y	a chef chopping vegetables on a board
+slice	/slaɪs/	切片	action	3333	y	hands slicing a tomato
+knead	/niːd/	揉面	action	12811	y	hands kneading dough on a floured table
+roast	/rəʊst/	烤	action	7679	y	a chicken roasting in an oven
+fry	/fraɪ/	煎炸	action	7089	y	eggs frying in a pan
+serve	/sɜːv/	上菜	action	401	y	a waiter serving food at a table
+pay	/peɪ/	付款	action	286	y	a woman paying by card at a shop counter
+unwrap	/ʌnˈræp/	拆开	action	17368	y	a child unwrapping a gift
+fill	/fɪl/	装满	action	686	y	water being poured to fill a bottle
+harvest	/ˈhɑːvɪst/	收获	action	4839	y	a farmer harvesting wheat in a field
+mow	/məʊ/	修剪草坪	action	9661	y	a man mowing a lawn
+hunt	/hʌnt/	打猎	action	3420	y	a fox hunting a mouse in snow
+camp	/kæmp/	露营	action	1188	y	a family camping by a tent in the forest
+hike	/haɪk/	徒步	action	4456	y	a hiker walking on a mountain trail
+land	/lænd/	着陆	action	566	y	an airplane landing on a runway
+launch	/lɔːntʃ/	发射	action	1743	y	a rocket launching with fire and smoke
+brake	/breɪk/	刹车	action	4693	y	a foot pressing a car brake pedal
+steer	/stɪə/	驾驶	action	4623	y	hands steering a car wheel
+tow	/təʊ/	拖	action	9000	y	a tow truck towing a car
+unlock	/ʌnˈlɒk/	开锁	action	6901		a hand unlocking a door with a key
+twist	/twɪst/	拧	action	3759		hands twisting open a jar of jam, one hand on the lid and the other holding the jar
+staple	/ˈsteɪpl/	装订	action	7008	y	a hand stapling papers
+vote	/vəʊt/	投票	action	1078	y	a person putting a ballot into a box
+salute	/səˈluːt/	敬礼	action	8974	y	a soldier saluting
+pray	/preɪ/	祈祷	action	2399	y	a person praying with hands together
+meditate	/ˈmedɪteɪt/	冥想	action	12380	y	a person meditating on a mountain
+jog	/dʒɒg/	慢跑	action	8335	y	a woman jogging in a park
+sprint	/sprɪnt/	冲刺	action	8582	y	sprinters racing on a track
+squat	/skwɒt/	深蹲	action	7870	y	a man doing a squat with a barbell
+balance	/ˈbæləns/	平衡	action	1631	y	a girl balancing on a beam
+juggle	/dʒʌgl/	杂耍	action	9584	y	a man juggling balls
+flip	/flɪp/	翻转	action	3922	y	a person flipping pancakes in a pan
+tumble	/tʌmbl/	翻滚	action	5472	y	a child doing a somersault on grass
+slip	/slɪp/	滑倒	action	1786	y	a man slipping on a banana peel on the pavement, falling backward
+crash	/kræʃ/	撞车	action	2837	y	two toy cars crashing
+spray	/spreɪ/	喷	action	4417	y	a person spraying water on plants
+sprinkle	/ˈsprɪŋkl/	撒	action	4663	y	hands sprinkling cheese on pasta
+scoop	/skuːp/	舀	action	6624	y	a scoop of ice cream
+bury	/ˈberɪ/	埋	action	2398	y	a dog burying a bone in the garden
+rescue	/ˈreskjuː/	救援	action	3815	y	a firefighter carrying a child out of danger
+shave	/ʃeɪv/	刮胡子	action	5779	y	a man shaving his beard in a mirror
+hatch	/hætʃ/	孵化	action	7365	y	a chick hatching from an egg
+smash	/smæʃ/	砸碎	action	5113	y	a hammer smashing a plate
+stack	/stæk/	堆叠	action	4466	y	a person stacking boxes
+sort	/sɔːt/	分类	action	835	y	a person sorting colored balls into baskets
+count	/kaʊnt/	数数	action	1331	y	a child counting on fingers
+measure	/ˈmeʒə/	测量	action	941	y	a person measuring a board with a tape measure
+weigh	/weɪ/	称重	action	2504	y	a person weighing fruit on a scale
+greet	/griːt/	问候	action	3475	y	two people greeting each other with a handshake
+hurry	/ˈhʌrɪ/	匆忙	action	3609	y	a man in a suit hurrying and looking at his watch
+snore	/snɔː/	打鼾	action	10440	y	a man sleeping and snoring in bed
+deliver	/dɪˈlɪvə/	递送	action	1288	y	a courier delivering a package
+photograph	/ˈfəʊtəgrɑːf/	拍照	action	1481	y	a woman photographing with a camera
+weave	/wiːv/	编织	action	4893	y	hands weaving a basket
+brew	/bruː/	冲泡	action	10422	y	a person pouring hot water over coffee grounds
+sip	/sɪp/	啜饮	action	5716	y	a woman sipping tea from a cup
+chew	/tʃuː/	咀嚼	action	4631	y	a man chewing food
+gulp	/gʌlp/	大口喝	action	11209	y	a man gulping water from a bottle
+pluck	/plʌk/	拔	action	6870	y	hands plucking a flower
+sow	/səʊ/	播种	action	10366	y	a farmer sowing seeds in a field
+shiver	/ˈʃɪvə/	发抖	action	6211	y	a person shivering in the snow
+cough	/kɒf/	咳嗽	action	6157	y	a woman coughing into her elbow
+round	/raʊnd/	圆的	adjective	2372		a still life of round objects: a ball, an orange and a clock
+flat	/flæt/	平的	adjective	2569		a flat pancake lying on a plate
+curly	/ˈkɜːlɪ/	卷的	adjective	9234		a close-up of a girl with curly hair
+wavy	/ˈweɪvɪ/	波浪的	adjective	13750		a woman with long wavy hair
+bald	/bɔːld/	秃的	adjective	6185		a bald man smiling
+fluffy	/ˈflʌfɪ/	蓬松的	adjective	10139		a fluffy white kitten
+shiny	/ˈʃaɪnɪ/	闪亮的	adjective	5128		shiny silver spoons
+transparent	/trænsˈpærənt/	透明的	adjective	5884		a transparent glass of clear water
+muddy	/ˈmʌdɪ/	泥泞的	adjective	6484	y	muddy boots on a muddy path
+crowded	/ˈkraʊdɪd/	拥挤的	adjective	4738	y	a crowded train carriage full of people
+tidy	/ˈtaɪdɪ/	整洁的	adjective	9867	y	a tidy bedroom with a made bed
+messy	/ˈmesɪ/	凌乱的	adjective	6651	y	a messy bedroom with clothes on the floor
+crooked	/ˈkrʊkɪd/	歪的	adjective	8300	y	a crooked old tree with a bent twisted trunk leaning over a field
+dusty	/ˈdʌstɪ/	满是灰尘的	adjective	5298	y	a dusty old book on a shelf
+rusty	/ˈrʌstɪ/	生锈的	adjective	9614	y	a rusty old bicycle
+frozen	/ˈfrəʊzn/	冰冻的	adjective	3778		a clear ice block covered in frost with icicles
+ripe	/raɪp/	成熟的	adjective	6068		ripe red tomatoes on a vine
+rotten	/ˈrɒtn/	腐烂的	adjective	8385		a rotten apple with brown spots
+raw	/rɔː/	生的	adjective	2783		a raw steak on a board
+fresh	/freʃ/	新鲜的	adjective	1107		fresh green vegetables with water drops
+juicy	/ˈdʒʊsɪ/	多汁的	adjective	8742		a juicy orange cut open with juice dripping
+crunchy	/ˈkrʌntʃɪ/	脆的	adjective	13795		a crunchy apple being bitten
+sticky	/ˈstɪkɪ/	黏的	adjective	6495		a spoon with sticky honey dripping
+slippery	/ˈslɪpərɪ/	滑的	adjective	7707		a wet bar of soap with foam sliding out of a hand
+smooth	/smuːð/	光滑的	adjective	2422		a smooth polished stone
+rough	/rʌf/	粗糙的	adjective	2627		a rough tree bark close-up
+bumpy	/ˈbʌmpɪ/	崎岖的	adjective	12588	y	a bumpy dirt road with potholes
+prickly	/ˈprɪklɪ/	带刺的	adjective	12304		a prickly cactus with spines
+furry	/ˈfɜːrɪ/	毛茸茸的	adjective	13002		a furry brown puppy
+sunny	/ˈsʌnɪ/	晴朗的	adjective	4866	y	a bright sun shining in a blue sky over a green field
+cloudy	/ˈklaʊdɪ/	多云的	adjective	10229	y	a cloudy grey sky over a field
+rainy	/ˈreɪnɪ/	下雨的	adjective	7477	y	a rainy day with people holding umbrellas
+windy	/ˈwɪndɪ/	刮风的	adjective	8867	y	a windy day with trees bending and leaves flying
+snowy	/ˈsnəʊɪ/	下雪的	adjective	9600	y	a snowy street in winter
+foggy	/ˈfɒgɪ/	有雾的	adjective	12681	y	a foggy road with trees in the mist
+stormy	/ˈstɔːmɪ/	暴风雨的	adjective	11643	y	stormy sea waves under dark clouds
+colorful	/ˈkʌləfʊl/	五彩缤纷的	adjective	4462		colorful macaroons and balloons
+tiny	/ˈtaɪnɪ/	极小的	adjective	1313		a tiny ant on a fingertip
+huge	/hjuːdʒ/	巨大的	adjective	911	y	a huge elephant next to a small car
+young	/jʌŋ/	年轻的	adjective	234		a young smiling woman

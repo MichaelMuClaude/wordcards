@@ -1,0 +1,49 @@
+laundry|洗衣房|!a laundromat with rows of washing machines
+salon|美发店|!a hair salon with chairs and mirrors
+florist|花店|!a florist shop with buckets of flowers
+kindergarten|幼儿园|!a bright kindergarten classroom with small tables and toys
+cafeteria|食堂|!a school cafeteria with long tables
+lobby|大堂|!a hotel lobby with sofas and a reception desk
+corridor|走廊|!a long corridor with doors on both sides
+terrace|露台|!a terrace with chairs and plants overlooking a garden
+rooftop|屋顶|!a rooftop with city skyline views
+cellar|地窖|!a stone cellar with wine barrels
+pantry|食品柜|!a pantry shelf full of jars and food
+studio|工作室|!an artist studio with paintings and an easel
+stable|马厩|!a horse stable with a horse looking out
+campsite|营地|!a campsite with a tent and a campfire
+crosswalk|人行横道|!a zebra crosswalk on a city street
+intersection|十字路口|!a busy street intersection with traffic lights
+village|村庄|!a small village with houses and a church among hills
+city|城市|!a big city with tall buildings at sunset
+skyline|天际线|!a city skyline at dusk across a river
+plaza|广场|!a large town plaza with a fountain and people
+arena|竞技场|!a big sports arena full of spectators
+ruins|废墟|!ancient stone ruins with columns
+fortress|堡垒|!a stone fortress on a hill
+paddy|稻田|!green rice paddies in terraces
+ranch|牧场|!a ranch with a wooden fence and horses
+warehouse|仓库|!a warehouse full of stacked boxes on shelves
+workshop|作坊|!a woodworking workshop with tools on the wall
+villa|别墅|!a modern villa with a swimming pool
+bungalow|平房|!a small bungalow house with a porch
+treehouse|树屋|!a wooden treehouse in a big tree
+limousine|豪华轿车|!a long black limousine on a street
+pickup|皮卡车|!a red pickup truck on a country road
+trailer|拖车|!a small camping trailer hitched to a car
+caravan|房车|!a caravan parked at a campsite
+trolley|电车|!an old trolley car on tracks in a city street
+monorail|单轨列车|!a monorail train on an elevated track
+blimp|飞艇|!a white blimp flying in a blue sky
+glider|滑翔机|!a white glider flying over mountains
+jet|喷气式飞机|!a jet plane flying in a blue sky
+propeller|螺旋桨|a three-blade metal propeller
+hovercraft|气垫船|!a hovercraft on the sea
+steamboat|蒸汽船|!a paddle steamboat on a river
+lifeboat|救生艇|an orange lifeboat on a ship deck
+buoy|浮标|!a red and white buoy floating in the sea
+forklift|叉车|!a yellow forklift lifting boxes in a warehouse
+sleigh|雪橇|!a wooden sleigh in the snow
+carriage|马车|!a horse-drawn carriage on a street
+rickshaw|人力车|!a rickshaw on a city street
+snowmobile|雪地摩托|!a snowmobile in the snow

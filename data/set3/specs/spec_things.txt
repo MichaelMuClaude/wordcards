@@ -1,0 +1,69 @@
+rake|耙子|a garden rake
+anvil|铁砧|an iron blacksmith anvil
+spade|铁锹|a garden spade stuck in soil
+trowel|小铲|a small garden trowel
+sickle|镰刀|a curved sickle
+pitchfork|干草叉|a pitchfork
+chisel|凿子|a wood chisel with a wooden handle
+pickaxe|鹤嘴锄|a pickaxe
+crowbar|撬棍|a steel crowbar
+sandpaper|砂纸|a sheet of sandpaper
+padlock|挂锁|a brass padlock
+hatchet|短柄斧|a hatchet stuck in a log
+arrow|箭|an arrow with feathers
+target|靶子|!an archery target with arrows in it
+dartboard|飞镖盘|a dartboard with darts
+bowling|保龄球|!bowling pins and a bowling ball on a lane
+tennis|网球|!a tennis ball and a racket on a tennis court
+golf|高尔夫|!a golf ball on a tee on a green course
+hockey|曲棍球|!an ice hockey stick and puck on ice
+badminton|羽毛球|a badminton racket and a shuttlecock
+goalpost|球门|!a soccer goalpost with a net on a field
+podium|领奖台|!a winners podium with first, second and third places
+archery|射箭|!a woman shooting an arrow with a bow
+boxing|拳击|!two boxers in a ring
+yoga|瑜伽|!a woman doing yoga on a mat
+xylophone|木琴|a colorful xylophone with mallets
+ukulele|尤克里里|a small wooden ukulele
+bugle|军号|a brass bugle
+metronome|节拍器|a wooden metronome
+turntable|唱机|a turntable playing a vinyl record
+orchestra|管弦乐队|!an orchestra playing on a stage
+choir|合唱团|!a choir singing together in robes
+concert|音乐会|!a concert with a crowd and stage lights
+teddy|泰迪熊|a teddy bear
+rattle|拨浪鼓|a baby rattle
+blocks|积木|colorful wooden toy blocks stacked up
+sandbox|沙坑|!a sandbox with a bucket and a shovel
+sandcastle|沙堡|!a sandcastle on a beach
+puppet|木偶|a hand puppet
+pinwheel|风车玩具|a colorful pinwheel
+dominoes|多米诺骨牌|dominoes standing in a row
+checkers|跳棋|a checkers board with red and black pieces
+jigsaw|拼图|a jigsaw puzzle partly assembled
+folder|文件夹|a blue paper folder
+binder|活页夹|a ring binder
+paperclip|回形针|a metal paperclip
+pushpin|图钉|red pushpins in a cork board
+highlighter|荧光笔|a yellow highlighter pen
+sticker|贴纸|colorful stickers on a sheet
+protractor|量角器|a clear protractor
+beaker|烧杯|a glass beaker with blue liquid
+flask|烧瓶|a glass flask with green liquid
+sharpener|卷笔刀|a pencil sharpener with a pencil
+whiteboard|白板|!a whiteboard on a classroom wall
+postcard|明信片|a postcard with a beach picture
+parcel|包裹|a brown paper parcel tied with string
+unicorn|独角兽|!a white unicorn with a rainbow mane in a meadow
+mermaid|美人鱼|!a mermaid sitting on a rock by the sea
+fairy|仙女|!a fairy with wings in a forest
+ghost|幽灵|!a white ghost floating in a dark room
+skeleton|骷髅|a human skeleton model
+monster|怪物|!a friendly furry green monster
+sword|剑|a steel sword
+shield|盾牌|a medieval shield
+armor|盔甲|a suit of medieval armor
+cannon|大炮|an old cannon on a wooden wheeled carriage
+ornament|装饰球|a red Christmas ornament hanging on a tree
+wand|魔杖|a magic wand with a glowing star tip
+campfire|篝火|!a campfire burning at night with logs

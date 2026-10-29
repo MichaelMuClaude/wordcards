@@ -1,0 +1,19 @@
+hoodie|连帽衫|a grey hooded sweatshirt
+overalls|背带裤|blue denim overalls
+underwear|内衣裤|folded plain cotton underwear
+cape|披风|a red superhero cape
+poncho|斗篷雨披|a colorful woven poncho
+visor|遮阳帽|a white sun visor cap
+suspenders|吊带|red suspenders on a white shirt
+loafer|乐福鞋|a brown leather loafer shoe
+bonnet|软帽|a baby bonnet hat
+headband|发带|a pink headband
+wristband|护腕|a blue sports wristband
+brooch|胸针|a gold brooch with a gem
+pendant|吊坠|a silver pendant necklace
+tiara|王冠头饰|a sparkling silver tiara
+leggings|紧身裤|black leggings
+tights|连裤袜|a pair of tights
+suitcase|行李箱|a hard shell suitcase with wheels
+satchel|书包|a brown leather satchel
+pouch|小袋|a small leather pouch with a drawstring

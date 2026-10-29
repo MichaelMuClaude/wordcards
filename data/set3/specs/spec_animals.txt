@@ -1,0 +1,42 @@
+yak|牦牛|!a yak with long shaggy fur standing on a mountain meadow
+ox|公牛|!a brown ox with big horns standing in a field
+buffalo|水牛|!a water buffalo standing in a muddy field
+toucan|巨嘴鸟|a toucan with a large colorful orange beak perched on a branch
+cardinal|北美红雀|a bright red cardinal bird perched on a snowy branch
+magpie|喜鹊|a black and white magpie perched on a branch
+kingfisher|翠鸟|a blue and orange kingfisher perched on a branch over water
+heron|苍鹭|!a grey heron standing in shallow water
+vulture|秃鹫|a vulture perched on a dead branch
+falcon|猎鹰|a falcon perched on a gloved hand
+seahorse|海马|a seahorse floating in clear blue water
+clam|蛤蜊|an open clam shell on wet sand
+scallop|扇贝|a scallop shell on a white background
+eel|鳗鱼|a long eel swimming underwater
+trout|鳟鱼|a rainbow trout fish underwater
+sloth|树懒|a sloth hanging from a tree branch
+armadillo|犰狳|an armadillo walking on the ground
+porcupine|豪猪|a porcupine with long sharp quills
+skunk|臭鼬|a black and white skunk with a bushy tail
+badger|獾|a badger walking in grass
+weasel|黄鼠狼|a weasel standing up on its hind legs
+mole|鼹鼠|a mole coming out of a mound of soil
+lemur|狐猴|a ring-tailed lemur sitting on a branch
+meerkat|猫鼬|a meerkat standing upright on sandy ground
+hyena|鬣狗|!a spotted hyena standing in dry grass
+panther|黑豹|!a black panther walking
+lynx|山猫|!a lynx with tufted ears standing in snow
+gazelle|瞪羚|!a gazelle standing on the savanna
+chameleon|变色龙|a green chameleon on a branch
+gecko|壁虎|a gecko clinging to a wall
+salamander|蝾螈|an orange salamander on a mossy rock
+tortoise|陆龟|a tortoise with a domed shell walking on grass
+wasp|黄蜂|a wasp with yellow and black stripes on a leaf
+scorpion|蝎子|a scorpion with raised tail on sand
+centipede|蜈蚣|a centipede crawling on a rock
+slug|蛞蝓|a slug on a green leaf
+mantis|螳螂|a green praying mantis on a leaf
+ram|公羊|!a ram with big curled horns standing on a hill
+stallion|种马|!a black stallion galloping in a field
+shrimp|虾|a pink cooked shrimp
+fawn|小鹿|!a spotted fawn lying in the grass
+cub|幼崽|!a lion cub sitting in the grass

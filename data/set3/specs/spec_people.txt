@@ -1,0 +1,48 @@
+surgeon|外科医生|!a surgeon in green scrubs and mask in an operating room
+plumber|水管工|!a plumber fixing a pipe under a sink
+electrician|电工|!an electrician working on a power box
+cashier|收银员|!a cashier at a supermarket checkout
+barber|理发师|!a barber cutting a man's hair
+baker|面包师|!a baker holding fresh bread in a bakery
+hairdresser|美发师|!a hairdresser styling a woman's hair
+janitor|清洁工|!a janitor mopping a hallway floor
+postman|邮递员|!a postman delivering mail at a front door
+guard|警卫|!a security guard in uniform standing at a door
+lifeguard|救生员|!a lifeguard sitting on a tower at a beach
+coach|教练|!a sports coach with a whistle on a field
+conductor|指挥|!an orchestra conductor raising a baton
+magician|魔术师|!a magician pulling a rabbit from a top hat
+acrobat|杂技演员|!an acrobat balancing on a rope
+hunter|猎人|!a hunter in a forest
+detective|侦探|!a detective with a magnifying glass
+thief|小偷|!a thief in a black mask sneaking at night
+model|模特|!a fashion model on a runway
+reporter|记者|!a reporter holding a microphone
+vet|兽医|!a veterinarian examining a dog
+pharmacist|药剂师|!a pharmacist behind a counter with medicine
+monk|僧人|!a monk in an orange robe
+gymnast|体操运动员|!a gymnast doing a split in the air
+cyclist|骑行者|!a cyclist riding a road bike
+runner|跑步者|!a runner jogging on a trail
+diver|潜水员|!a diver underwater with an air tank
+toddler|学步的孩子|a toddler taking first steps
+crowd|人群|!a crowd of people on a street
+couple|情侣|!a couple walking together holding hands
+neighbor|邻居|!two neighbors chatting over a garden fence
+customer|顾客|!a customer shopping in a store
+patient|病人|!a patient lying in a hospital bed
+queen|女王|!a queen wearing a crown and a royal dress
+knight|骑士|!a knight in armor on a horse
+wizard|巫师|!a wizard with a long beard and a pointed hat
+surprised|惊讶的|a close-up portrait of a young man looking surprised with eyes wide and mouth open
+bored|无聊的|a close-up portrait of a bored young woman resting her chin on her hand
+excited|兴奋的|a close-up portrait of an excited girl with arms raised and a big smile
+nervous|紧张的|a close-up portrait of a nervous man biting his nails
+proud|自豪的|a close-up portrait of a proud woman smiling with her chin up
+shy|害羞的|a close-up portrait of a shy girl looking down and smiling
+jealous|嫉妒的|a close-up portrait of a jealous woman with narrowed eyes
+worried|担心的|a close-up portrait of a worried man with a furrowed brow
+lonely|孤独的|!a lonely man sitting alone on a bench in a park
+embarrassed|尴尬的|a close-up portrait of an embarrassed woman covering her face with blushing cheeks
+confused|困惑的|a close-up portrait of a confused man scratching his head
+sleepy|困倦的|a close-up portrait of a sleepy woman yawning with heavy eyelids

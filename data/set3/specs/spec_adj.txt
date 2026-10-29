@@ -1,0 +1,40 @@
+round|圆的|a still life of round objects: a ball, an orange and a clock
+flat|平的|a flat pancake lying on a plate
+curly|卷的|a close-up of a girl with curly hair
+wavy|波浪的|a woman with long wavy hair
+bald|秃的|a bald man smiling
+fluffy|蓬松的|a fluffy white kitten
+shiny|闪亮的|shiny silver spoons
+transparent|透明的|a transparent glass of clear water
+muddy|泥泞的|!muddy boots on a muddy path
+crowded|拥挤的|!a crowded train carriage full of people
+tidy|整洁的|!a tidy bedroom with a made bed
+messy|凌乱的|!a messy bedroom with clothes on the floor
+crooked|歪的|!a crooked picture frame hanging on a wall
+dusty|满是灰尘的|!a dusty old book on a shelf
+rusty|生锈的|!a rusty old bicycle
+frozen|冰冻的|!a frozen pond covered with ice
+ripe|成熟的|ripe red tomatoes on a vine
+rotten|腐烂的|a rotten apple with brown spots
+raw|生的|a raw steak on a board
+fresh|新鲜的|fresh green vegetables with water drops
+juicy|多汁的|a juicy orange cut open with juice dripping
+crunchy|脆的|a crunchy apple being bitten
+sticky|黏的|a spoon with sticky honey dripping
+slippery|滑的|a wet floor sign on a slippery floor
+smooth|光滑的|a smooth polished stone
+rough|粗糙的|a rough tree bark close-up
+bumpy|崎岖的|!a bumpy dirt road with potholes
+prickly|带刺的|a prickly cactus with spines
+furry|毛茸茸的|a furry brown puppy
+sunny|晴朗的|!a sunny day with a bright blue sky
+cloudy|多云的|!a cloudy grey sky over a field
+rainy|下雨的|!a rainy day with people holding umbrellas
+windy|刮风的|!a windy day with trees bending and leaves flying
+snowy|下雪的|!a snowy street in winter
+foggy|有雾的|!a foggy road with trees in the mist
+stormy|暴风雨的|!stormy sea waves under dark clouds
+colorful|五彩缤纷的|colorful macaroons and balloons
+tiny|极小的|a tiny ant on a fingertip
+huge|巨大的|!a huge elephant next to a small car
+young|年轻的|a young smiling woman
