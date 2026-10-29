@@ -44,12 +44,16 @@ def main():
     ap.add_argument("--url", default="http://127.0.0.1:8188", help="ComfyUI server")
     ap.add_argument("--only", default="", help="comma-separated words (default: all)")
     ap.add_argument("--seed", type=int, default=5000)
+    ap.add_argument("--pause", type=float, default=0, help="seconds to rest after every picture")
+    ap.add_argument("--rest-every", type=int, default=0, help="take a long rest after this many pictures (0 = never)")
+    ap.add_argument("--rest", type=float, default=60, help="seconds of the long rest")
     args = ap.parse_args()
 
     out = Path(args.out_dir)
     out.mkdir(parents=True, exist_ok=True)
     only = {w for w in args.only.split(",") if w}
     rows = list(csv.DictReader(open(args.cards_tsv, encoding="utf-8"), delimiter="\t"))
+    made = 0
     for i, r in enumerate(rows):
         word, prompt = r["word"], r["prompt"]
         dest = out / f"{word}.png"
@@ -69,6 +73,10 @@ def main():
         q = urllib.parse.urlencode({"filename": img["filename"], "subfolder": img["subfolder"], "type": img["type"]})
         dest.write_bytes(urllib.request.urlopen(f"{args.url}/view?{q}", timeout=60).read())
         print(f"{i + 1}/{len(rows)} {word} {'scene' if scene else 'studio'} {time.time() - t0:.1f}s", flush=True)
+        made += 1
+        time.sleep(args.pause)
+        if args.rest_every and made % args.rest_every == 0:
+            time.sleep(args.rest)
     print("done")
 
 

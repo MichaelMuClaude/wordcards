@@ -1,0 +1,22 @@
+tank|坦克|!a military tank driving across a field
+excavator|挖掘机|!a yellow excavator digging in dirt
+tanker|油罐车|!a tanker truck on a road
+freighter|货轮|!a cargo freighter ship with stacked containers on the sea
+barge|驳船|!a barge on a river
+dinghy|小艇|a small rubber dinghy on water
+catamaran|双体船|!a catamaran sailing on the sea
+airship|飞艇|!an airship flying in the sky
+biplane|双翼飞机|!a vintage biplane flying in the sky
+seaplane|水上飞机|!a seaplane floating on a lake
+chairlift|滑雪缆椅|!a chairlift over a snowy mountain
+sidecar|边三轮|!a motorcycle with a sidecar
+moped|轻便摩托车|a red moped
+unicycle|独轮车|a unicycle
+tandem|双人自行车|!a tandem bicycle with two riders
+convertible|敞篷车|!a red convertible car driving on a coastal road
+combine|联合收割机|!a combine harvester working in a wheat field
+snowplow|扫雪车|!a snowplow truck clearing a road
+stagecoach|驿马车|!a stagecoach pulled by horses
+chariot|战车|!an ancient chariot pulled by two horses
+lifebuoy|救生圈|a red and white lifebuoy ring
+lifejacket|救生衣|an orange life jacket

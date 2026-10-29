@@ -1,0 +1,41 @@
+pat|轻拍|!a person patting a dog on the head
+pinch|捏|!fingers pinching a cheek
+stomp|跺脚|!a child stomping in a puddle
+bow|鞠躬|!a person bowing politely
+shrug|耸肩|!a man shrugging his shoulders
+stare|盯着看|!a girl staring at something with wide eyes
+sniff|嗅|!a dog sniffing a flower
+lick|舔|!a girl licking an ice cream cone
+nibble|小口咬|!a mouse nibbling a piece of cheese
+simmer|文火炖|!a pot simmering on a stove
+grate|擦碎|!a hand grating cheese
+carve|雕刻|!a man carving a pumpkin
+sketch|素描|!a person sketching in a park
+stitch|缝纫|!hands stitching fabric with a needle
+knit|编织|!hands knitting wool with needles
+embroider|刺绣|!hands embroidering a flower on fabric
+drag|拖|!a man dragging a heavy box across the floor
+plow|耕地|!a farmer plowing a field with a tractor
+wade|涉水|!a child wading in shallow water
+dip|蘸|!a hand dipping a cookie into milk
+soak|浸泡|!beans soaking in a bowl of water
+honk|按喇叭|!a car honking in traffic
+stroll|漫步|!a couple strolling in a park
+sneak|悄悄走|!a child sneaking down a hallway
+crouch|蹲伏|!a man crouching low
+lunge|弓步|!a woman doing a lunge exercise
+punch|出拳|!a boxer punching a bag
+tackle|擒抱|!a football player tackling another
+dribble|运球|!a boy dribbling a basketball
+leap|跳跃|!a dancer leaping in the air
+gallop|飞奔|!a horse galloping across a field
+flap|拍打|!a bird flapping its wings
+soar|翱翔|!an eagle soaring in the sky
+glide|滑翔|!a swan gliding on a lake
+hover|悬停|!a hummingbird hovering near a flower
+perch|栖息|!a small bird perching on a branch
+roar|吼叫|!a lion roaring
+howl|嚎叫|!a wolf howling at the moon
+chirp|啁啾|!a small bird chirping on a branch
+buzz|嗡嗡|!a bee buzzing near a flower
+hiss|嘶嘶叫|!a cat hissing with arched back

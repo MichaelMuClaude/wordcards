@@ -1,0 +1,51 @@
+wombat|袋熊|a wombat standing on dry grass
+platypus|鸭嘴兽|a platypus swimming in a clear stream
+anteater|食蚁兽|!a giant anteater walking through grassland
+tapir|貘|a tapir standing beside a river
+warthog|疣猪|!a warthog standing in dry savanna grass
+wildebeest|角马|!a wildebeest standing on the savanna
+orangutan|红毛猩猩|!an orangutan sitting in a tree
+gibbon|长臂猿|a gibbon hanging from a branch
+chipmunk|花栗鼠|a chipmunk holding a nut on a log
+ferret|雪貂|a ferret standing on its hind legs
+hare|野兔|!a brown hare running in a field
+husky|哈士奇|a siberian husky sitting in the snow
+beagle|比格犬|a beagle dog sitting
+corgi|柯基犬|a corgi dog standing
+terrier|梗犬|a terrier dog standing
+bulldog|斗牛犬|a bulldog sitting
+pheasant|野鸡|a male pheasant with colorful feathers standing in grass
+quail|鹌鹑|a quail standing on the ground
+canary|金丝雀|a yellow canary perched on a branch
+parakeet|长尾小鹦鹉|a green parakeet perched on a branch
+cockatoo|凤头鹦鹉|a white cockatoo with a yellow crest perched on a branch
+macaw|金刚鹦鹉|a red and blue macaw perched on a branch
+puffin|海鹦|!a puffin standing on a grassy cliff
+albatross|信天翁|!an albatross flying over the ocean
+cormorant|鸬鹚|a cormorant perched on a wooden post by the water
+manatee|海牛|a manatee swimming underwater
+narwhal|独角鲸|a narwhal with a long spiral tusk swimming in arctic water
+beluga|白鲸|a white beluga whale swimming underwater
+piranha|食人鱼|a piranha fish with sharp teeth underwater
+swordfish|剑鱼|a swordfish swimming in the ocean
+pufferfish|河豚|an inflated pufferfish underwater
+catfish|鲶鱼|a catfish with long whiskers underwater
+bullfrog|牛蛙|a bullfrog sitting on a lily pad
+viper|毒蛇|a viper coiled on a rock
+cicada|蝉|a cicada on a tree trunk
+locust|蝗虫|a locust on a green stem
+hornet|大黄蜂|a hornet on a leaf
+gerbil|沙鼠|a gerbil standing on sand
+chinchilla|龙猫|a chinchilla with soft grey fur
+dingo|澳洲野犬|!a dingo standing in the red desert
+coyote|郊狼|!a coyote standing in a desert at sunset
+jackal|豺|a jackal standing on dry grass
+cougar|美洲狮|a cougar standing on a rock
+bobcat|短尾猫|a bobcat standing in a forest
+mongoose|獴|a mongoose standing upright on the ground
+pangolin|穿山甲|a pangolin walking on the ground, covered in scales
+buzzard|鵟|a buzzard perched on a post
+condor|神鹰|a condor with spread wings perched on a rock
+kestrel|红隼|a kestrel perched on a branch
+starling|椋鸟|a starling perched on a branch
+mallard|绿头鸭|a male mallard duck with a green head swimming on a pond

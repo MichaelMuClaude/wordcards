@@ -1,0 +1,32 @@
+parka|派克大衣|a green hooded parka coat
+windbreaker|防风夹克|a lightweight windbreaker jacket
+cloak|斗篷|a dark blue hooded cloak
+robe|长袍|a long white robe
+kilt|苏格兰裙|a tartan kilt
+sari|纱丽|a folded red silk sari with gold trim
+tunic|束腰上衣|a plain linen tunic
+leotard|紧身连体衣|a pink leotard
+tutu|芭蕾舞裙|a pink ballet tutu
+jersey|球衣|a red sports jersey without any text
+polo|马球衫|a blue polo shirt
+turtleneck|高领毛衣|a cream turtleneck sweater
+denim|牛仔布|folded blue denim fabric
+clog|木鞋|a pair of wooden clogs
+stiletto|细高跟鞋|a pair of red stiletto high heels
+moccasin|莫卡辛鞋|a pair of brown leather moccasins
+cleat|球钉鞋|a soccer cleat
+shawl|披肩|a knitted wool shawl
+bowler|圆顶礼帽|a black bowler hat
+sombrero|宽边帽|a wide-brimmed straw sombrero
+fez|菲斯帽|a red fez hat with a tassel
+monocle|单片眼镜|a monocle with a gold chain
+bowtie|领结|a black bow tie
+cufflink|袖扣|a pair of silver cufflinks
+locket|相片吊坠|a gold locket on a chain
+anklet|脚链|a silver anklet
+clutch|手拿包|a small satin clutch bag
+tote|托特包|a canvas tote bag
+duffel|行李袋|a large duffel bag
+lanyard|挂绳|a blue lanyard with a badge holder
+badge|徽章|a round metal badge pinned to a jacket
+sash|绶带|a red sash across a white dress

@@ -1,0 +1,45 @@
+meteor|流星|!a meteor streaking across the night sky
+asteroid|小行星|a rocky asteroid in space
+galaxy|星系|a spiral galaxy in space
+nebula|星云|a colorful nebula in space
+eclipse|日食|a total solar eclipse with a bright ring of light
+aurora|极光|!green aurora lights over a snowy landscape
+dew|露水|dew drops on a green leaf
+drizzle|毛毛雨|!a light drizzle falling on a street with an umbrella
+avalanche|雪崩|!an avalanche of snow rushing down a mountain
+tsunami|海啸|!a huge ocean wave rising over a coast
+lava|熔岩|!glowing red lava flowing down a volcano
+quartz|石英|a pink quartz crystal
+amber|琥珀|a piece of orange amber
+jade|玉|a carved green jade stone
+ruby|红宝石|a red ruby gemstone
+emerald|祖母绿|a green emerald gemstone
+sapphire|蓝宝石|a blue sapphire gemstone
+silver|银|a bar of shiny silver
+copper|铜|a piece of shiny copper
+bronze|青铜|a bronze statue of a horse
+willow|柳树|!a weeping willow tree by a lake
+birch|桦树|!white birch trees in a forest
+redwood|红杉|!giant redwood trees in a forest
+jasmine|茉莉|white jasmine flowers on a vine
+lilac|丁香|purple lilac flowers
+peony|牡丹|a pink peony flower
+hibiscus|木槿|a red hibiscus flower
+marigold|万寿菊|orange marigold flowers
+magnolia|玉兰|a magnolia flower in bloom
+wisteria|紫藤|!purple wisteria flowers hanging from a pergola
+thistle|蓟|a purple thistle flower
+toadstool|毒蝇伞|a red toadstool with white spots in a forest
+kelp|海带|!kelp forest underwater
+pinecone|松果|a pine cone
+twig|细树枝|a small thin twig
+sapling|树苗|a young tree sapling planted in soil
+bark|树皮|close up of rough tree bark
+driftwood|浮木|a piece of driftwood on a beach
+stalactite|钟乳石|!stalactites hanging in a cave
+fossil|化石|a fossil of an ammonite in a rock
+anthill|蚁丘|!an anthill with ants crawling on it
+cocoon|茧|a cocoon hanging from a branch
+snowdrift|雪堆|!a snowdrift against a fence
+geode|晶洞|a geode cut open showing purple crystals
+eggshell|蛋壳|broken white eggshells

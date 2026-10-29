@@ -1,0 +1,34 @@
+chapel|小教堂|!a small stone chapel in the countryside
+monastery|修道院|!a monastery on a mountain
+watchtower|瞭望塔|!a wooden watchtower
+canal|运河|!a canal with boats and old buildings
+aqueduct|渡槽|!an ancient stone aqueduct
+racetrack|赛道|!a race track with a car racing
+campus|校园|!a university campus with lawns and brick buildings
+dormitory|宿舍|!a student dormitory room with two beds
+laundromat|自助洗衣店|!a laundromat with washing machines
+deli|熟食店|!a deli counter with meats and cheeses
+diner|小餐馆|!a classic american diner interior
+pub|酒吧|!a cozy pub interior with a wooden bar
+nightclub|夜店|!a nightclub dance floor with colorful lights
+casino|赌场|!a casino floor with slot machines
+ballroom|舞厅|!a grand ballroom with chandeliers
+auditorium|礼堂|!an empty auditorium with rows of seats
+courthouse|法院|!a courthouse building with columns
+prison|监狱|!a prison cell block with bars
+firehouse|消防站|!a fire station with a red fire truck
+shed|棚屋|!a wooden garden shed
+kennel|狗窝|!a wooden dog kennel with a dog in it
+coop|鸡舍|!a wooden chicken coop with chickens
+silo|粮仓|!a tall grain silo on a farm
+pasture|牧场|!a green pasture with grazing cows
+quarry|采石场|!a rock quarry with stepped walls
+marina|游艇港|!a marina with many boats
+lagoon|潟湖|!a turquoise lagoon with a white beach
+fjord|峡湾|!a fjord with steep green mountains and calm water
+crater|火山口|!a volcanic crater with a small lake
+tundra|苔原|!a snowy tundra with low shrubs
+savanna|稀树草原|!a savanna with acacia trees at sunset
+prairie|大草原|!a wide prairie with tall grass
+rainforest|雨林|!a dense rainforest with tall trees and mist
+rapids|急流|!white water rapids on a river

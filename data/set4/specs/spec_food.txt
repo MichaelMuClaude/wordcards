@@ -1,0 +1,64 @@
+ravioli|意式饺子|a plate of ravioli pasta with tomato sauce
+macaroni|通心粉|a bowl of macaroni pasta
+meatloaf|肉糕|a sliced meatloaf on a plate
+wonton|馄饨|a bowl of wonton soup
+congee|粥|a bowl of rice congee with scallions
+tempura|天妇罗|a plate of shrimp tempura
+sashimi|生鱼片|a plate of salmon sashimi slices
+miso|味噌汤|a bowl of miso soup with tofu cubes
+kimchi|泡菜|a bowl of red kimchi
+falafel|炸豆丸子|falafel balls on a plate
+baklava|果仁蜜饼|pieces of baklava pastry on a plate
+gnocchi|意式土豆团子|a bowl of potato gnocchi with sauce
+risotto|烩饭|a bowl of creamy risotto
+paella|西班牙海鲜饭|a pan of seafood paella
+prosciutto|生火腿|thin slices of prosciutto ham on a board
+pepperoni|意式腊肠|slices of pepperoni on a board
+bratwurst|德式香肠|a grilled bratwurst sausage in a bun
+marmalade|橘子酱|a jar of orange marmalade with a spoon
+muesli|什锦麦片|a bowl of muesli with fruit and milk
+tiramisu|提拉米苏|a slice of tiramisu on a plate
+sorbet|冰沙|scoops of fruit sorbet in a glass dish
+cheddar|切达奶酪|a block of orange cheddar cheese
+mozzarella|马苏里拉奶酪|fresh mozzarella balls with basil leaves
+brie|布里奶酪|a wheel of brie cheese cut open
+feta|羊奶酪|cubes of white feta cheese in a bowl
+soybean|大豆|a handful of soybeans in a bowl
+chickpea|鹰嘴豆|chickpeas in a bowl
+lentil|扁豆|a bowl of dry lentils
+barley|大麦|barley grains in a bowl
+quinoa|藜麦|a bowl of cooked quinoa
+cornbread|玉米面包|a square of golden cornbread
+sourdough|酸面包|a round sourdough loaf, partly sliced
+ciabatta|意式拖鞋面包|a ciabatta bread loaf
+macadamia|夏威夷果|macadamia nuts on a table
+prune|西梅干|dried prunes in a bowl
+honeydew|蜜瓜|a sliced honeydew melon
+starfruit|杨桃|a sliced star fruit showing star shapes
+jackfruit|菠萝蜜|a jackfruit cut open
+kumquat|金橘|a small pile of kumquats
+gooseberry|醋栗|green gooseberries in a bowl
+rhubarb|大黄|red rhubarb stalks
+parsnip|防风草根|parsnip roots
+kale|羽衣甘蓝|a bunch of curly kale
+fennel|茴香|a fennel bulb with feathery fronds
+scallion|大葱|a bunch of green scallions
+dill|莳萝|a bunch of fresh dill
+rosemary|迷迭香|sprigs of fresh rosemary
+thyme|百里香|sprigs of fresh thyme
+oregano|牛至|fresh oregano leaves
+cumin|孜然|cumin seeds in a small bowl
+turmeric|姜黄|turmeric roots and yellow powder
+paprika|红椒粉|a bowl of red paprika powder
+saffron|藏红花|saffron threads in a small dish
+nutmeg|肉豆蔻|a whole nutmeg and grated nutmeg
+vanilla|香草|vanilla beans and a vanilla flower
+wasabi|芥末|a mound of green wasabi paste on a small plate
+gravy|肉汁|brown gravy poured over mashed potatoes
+gumdrop|橡皮糖|colorful gumdrop candies
+jellybean|软心豆粒糖|a pile of colorful jelly beans
+peppermint|薄荷糖|red and white peppermint candies
+fondue|奶酪火锅|a pot of cheese fondue with a piece of bread on a fork
+calzone|半月形馅饼|a baked calzone cut open
+mocha|摩卡咖啡|a cup of mocha coffee with whipped cream
+cola|可乐|a glass of cola with ice

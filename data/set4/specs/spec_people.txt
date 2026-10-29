@@ -1,0 +1,43 @@
+lumberjack|伐木工|!a lumberjack in a plaid shirt with an axe in the forest
+blacksmith|铁匠|!a blacksmith hammering hot iron in a forge
+cobbler|补鞋匠|!a cobbler repairing a shoe at a workbench
+weaver|织工|!a weaver working at a wooden loom
+potter|陶工|!a potter shaping clay on a wheel
+glassblower|吹玻璃工|!a glassblower shaping glowing glass
+mason|石匠|!a mason laying bricks on a wall
+welder|焊工|!a welder in a mask with bright sparks
+locksmith|锁匠|!a locksmith picking a door lock
+chauffeur|私人司机|!a chauffeur in a suit opening a car door
+trucker|卡车司机|!a truck driver sitting in the cab of a truck
+captain|船长|!a ship captain in a white uniform on a ship
+stewardess|空乘|!a flight attendant smiling in an airplane aisle
+receptionist|前台接待|!a receptionist at a hotel front desk
+secretary|秘书|!a secretary typing at an office desk
+clerk|店员|!a shop clerk behind a counter
+barista|咖啡师|!a barista making coffee at a cafe counter
+paramedic|急救员|!a paramedic in uniform beside an ambulance
+professor|教授|!a professor in front of a lecture hall board
+athlete|运动员|!an athlete running on a track
+wrestler|摔跤手|!two wrestlers on a wrestling mat
+cheerleader|啦啦队员|!a cheerleader with pom poms
+violinist|小提琴手|!a violinist playing a violin on a stage
+guitarist|吉他手|!a guitarist playing an electric guitar on a stage
+poet|诗人|!a poet writing in a notebook at a cafe table
+pilgrim|朝圣者|!a pilgrim with a staff walking along a mountain path
+camper|露营者|!a camper sitting by a campfire
+viking|维京人|!a viking warrior with a horned-less helmet and a round shield
+samurai|武士|!a samurai in armor holding a sword
+ninja|忍者|!a ninja in black clothes crouching on a rooftop
+gladiator|角斗士|!a gladiator with a shield and a sword in an arena
+emperor|皇帝|!a fictional emperor in golden robes on a throne
+pharaoh|法老|!a fictional pharaoh wearing a gold headdress
+nun|修女|!a nun in a habit walking in a garden
+priest|牧师|!a priest in a black robe in a church
+vampire|吸血鬼|!a fictional vampire in a black cape in a dark castle
+zombie|僵尸|!a zombie with torn clothes in a foggy street
+mummy|木乃伊|!an ancient mummy wrapped in bandages
+giant|巨人|!a giant standing next to small trees
+dwarf|矮人|!a fantasy dwarf with a beard and an axe
+alien|外星人|!a green alien standing in a field at night
+superhero|超级英雄|!a superhero in a red cape flying above a city
+newborn|新生儿|a newborn baby wrapped in a white blanket

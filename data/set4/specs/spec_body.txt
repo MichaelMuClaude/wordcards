@@ -1,0 +1,21 @@
+eyeball|眼球|a close-up of a human eye
+pupil|瞳孔|a close-up of an eye focusing on the pupil
+earlobe|耳垂|a close-up of an ear with a small earring
+jaw|下巴|a close-up of a man's jaw and chin
+collarbone|锁骨|a woman's collarbone and shoulder
+kneecap|膝盖骨|a bent knee close-up
+knuckle|指关节|a close-up of a fist showing knuckles
+toenail|趾甲|a close-up of toes with toenails
+bicep|二头肌|a man flexing a bicep
+kidney|肾脏|an anatomical model of a kidney
+liver|肝脏|an anatomical model of a liver
+vein|静脉|a forearm with visible veins
+syringe|注射器|a medical syringe with a needle
+cast|石膏|an arm in a white plaster cast
+stretcher|担架|!a stretcher carried by two paramedics
+inhaler|吸入器|an asthma inhaler
+scalpel|手术刀|a surgical scalpel on a tray
+gauze|纱布|a roll of gauze bandage
+ointment|药膏|a tube of ointment and a small jar
+sling|吊臂带|an arm in a blue sling
+walker|助行架|a metal walker frame

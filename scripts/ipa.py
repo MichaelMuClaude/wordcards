@@ -13,6 +13,17 @@ OVERRIDE = {
     "seahorse": "/ˈsiːhɔːs/", "overalls": "/ˈəʊvərɔːlz/", "suspenders": "/səˈspendəz/", "leggings": "/ˈleɡɪŋz/",
     "fries": "/fraɪz/", "ribs": "/rɪbz/", "bored": "/bɔːd/", "ruins": "/ˈruːɪnz/",
     "grater": "/ˈɡreɪtə/", "flan": "/flæn/", "ranch": "/rɑːntʃ/", "buoy": "/bɔɪ/", "mow": "/məʊ/", "sow": "/səʊ/",
+    "corgi": "/ˈkɔːɡɪ/", "bulldog": "/ˈbʊldɒɡ/", "gerbil": "/ˈdʒɜːbɪl/", "narwhal": "/ˈnɑːwəl/", "ravioli": "/ˌrævɪˈəʊlɪ/",
+    "tempura": "/ˈtempʊrə/", "gnocchi": "/ˈnjɒkɪ/", "sourdough": "/ˈsaʊədəʊ/", "oregano": "/ɒˈreɡənəʊ/",
+    "lagoon": "/ləˈɡuːn/", "coatrack": "/ˈkəʊtræk/", "snowplow": "/ˈsnəʊplaʊ/", "router": "/ˈruːtə/", "dinghy": "/ˈdɪŋɡɪ/",
+    "rugby": "/ˈrʌɡbɪ/", "laundromat": "/ˈlɔːndrəmæt/", "grate": "/ɡreɪt/", "bow": "/baʊ/", "sparkler": "/ˈspɑːklə/",
+    "cast": "/kɑːst/", "superhero": "/ˈsuːpəhɪərəʊ/", "dollhouse": "/ˈdɒlhaʊs/", "sparkling": "/ˈspɑːklɪŋ/",
+    "rainforest": "/ˈreɪnfɒrɪst/", "mongoose": "/ˈmɒŋɡuːs/", "soybean": "/ˈsɔɪbiːn/", "coyote": "/kaɪˈəʊtɪ/",
+    "asteroid": "/ˈæstərɔɪd/", "ointment": "/ˈɔɪntmənt/", "embroider": "/ɪmˈbrɔɪdə/", "crouch": "/kraʊtʃ/",
+    "wonton": "/ˈwɒntɒn/", "fondue": "/ˈfɒnduː/", "zombie": "/ˈzɒmbɪ/", "locket": "/ˈlɒkɪt/", "ottoman": "/ˈɒtəmən/",
+    "tiramisu": "/ˌtɪrəmɪˈsuː/", "cockatoo": "/ˌkɒkəˈtuː/", "manatee": "/ˌmænəˈtiː/", "mozzarella": "/ˌmɒtsəˈrelə/",
+    "feta": "/ˈfetə/", "orangutan": "/ɔːˈræŋətæn/", "rapids": "/ˈræpɪdz/", "kumquat": "/ˈkʌmkwɒt/", "mason": "/ˈmeɪsn/",
+    "trucker": "/ˈtrʌkə/",
 }
 
 

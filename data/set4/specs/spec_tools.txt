@@ -1,0 +1,24 @@
+mallet|木槌|a wooden mallet
+sledgehammer|大锤|a sledgehammer with a long wooden handle
+hacksaw|钢锯|a metal hacksaw
+chainsaw|链锯|an orange chainsaw
+lathe|车床|a metal lathe machine in a workshop
+vise|台虎钳|a bench vise
+clamp|夹钳|a metal c-clamp
+sander|砂光机|an electric hand sander
+torch|火把|a burning wooden torch at night
+blowtorch|喷灯|a handheld blowtorch with a blue flame
+bolt|螺栓|a metal bolt with a nut
+washer|垫圈|a few flat metal washers
+hinge|合页|a metal door hinge
+latch|门闩|a metal door latch on a wooden door
+pulley|滑轮|a pulley with a rope
+winch|绞盘|a winch with a steel cable
+gear|齿轮|a set of interlocking metal gears
+nozzle|喷嘴|a brass hose nozzle
+gauge|压力表|a pressure gauge with a needle
+scaffold|脚手架|!scaffolding on the side of a building
+machete|砍刀|a machete with a wooden handle
+scythe|长柄镰刀|a scythe with a curved blade and long handle
+shears|大剪刀|garden shears
+cement|水泥|!a worker spreading wet cement with a trowel

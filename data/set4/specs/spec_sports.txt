@@ -1,0 +1,33 @@
+football|橄榄球|an american football on grass
+soccer|足球|a soccer ball on grass
+rugby|橄榄球运动|!rugby players in a scrum
+puck|冰球|a black hockey puck on ice
+shuttlecock|羽毛球|a badminton shuttlecock
+billiards|台球|!billiard balls on a green table
+cue|台球杆|a pool cue on a green table
+fencing|击剑|!two fencers in white suits fencing
+judo|柔道|!two people practicing judo in white uniforms
+karate|空手道|!a person doing a karate kick in a white uniform
+ballet|芭蕾|!a ballerina on stage
+marathon|马拉松|!runners in a marathon in a city street
+hurdle|跨栏|!a runner jumping over a hurdle
+javelin|标枪|!an athlete throwing a javelin
+discus|铁饼|!an athlete throwing a discus
+snorkel|浮潜管|a snorkel and a diving mask
+scuba|水肺潜水|!a scuba diver underwater
+fishing|钓鱼|!a man fishing from a boat on a lake
+reel|渔线轮|a fishing reel on a rod
+bonfire|篝火|!a big bonfire on a beach at night
+sparkler|烟花棒|a lit sparkler in the dark
+firecracker|鞭炮|red firecrackers
+pinata|皮纳塔|a colorful pinata hanging from a tree
+piccolo|短笛|a piccolo flute
+cowbell|牛铃|a brass cowbell hanging from a leather strap
+recorder|竖笛|a wooden recorder flute
+gong|锣|a large bronze gong
+sitar|西塔琴|a sitar
+zither|古筝|a long wooden zither
+synthesizer|合成器|an electronic synthesizer keyboard
+baton|指挥棒|a conductor's baton
+dollhouse|玩具屋|a wooden dollhouse
+frisbee|飞盘|a frisbee on grass

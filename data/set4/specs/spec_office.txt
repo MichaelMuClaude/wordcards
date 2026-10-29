@@ -1,0 +1,18 @@
+textbook|教科书|a thick textbook with a plain blue cover
+locker|储物柜|!a row of school lockers in a hallway
+shredder|碎纸机|an office paper shredder with strips of paper
+diary|日记本|a closed diary with a lock and a pen
+palette|调色板|a wooden painter's palette with colorful paint
+canvas|画布|a blank canvas on an easel
+ink|墨水|a bottle of black ink with a pen
+inkwell|墨水瓶|an old glass inkwell with a quill
+router|路由器|a white wifi router with antennas
+drone|无人机|a quadcopter drone flying in the sky
+webcam|网络摄像头|a webcam on a computer monitor
+gamepad|游戏手柄|a game controller
+arcade|游戏厅|!an arcade with game machines
+scanner|扫描仪|a flatbed document scanner
+amplifier|扩音器|a guitar amplifier
+vinyl|黑胶唱片|a black vinyl record
+corkboard|软木板|a corkboard with pinned notes and photos
+headset|头戴式耳麦|a headset with a microphone
