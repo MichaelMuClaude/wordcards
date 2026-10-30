@@ -22,7 +22,7 @@ layout, in a different (flat illustration) style. Everything here is open so you
 
 ![Some cards from set 5 (Word Atlas)](docs/overview5.jpg)
 
-Made to be shown one after another on the desktop by [GlanceCards](https://github.com/MichaelMuClaude/glancecards),
+Made to be shown one after another on the desktop by [GlanceCards（词卡）](https://github.com/MichaelMuClaude/glancecards),
 a small desktop card window: you glance at the cards while you work, and click **Got it** on the ones you
 already know.
 
@@ -36,7 +36,7 @@ already know.
 第五组 7298 张不是我们画的，来自开源项目 [Word Atlas（词光）](https://github.com/designfuchen/word-atlas)（CC BY 4.0）：
 我们只把它的插画和词条按同样的版式做成卡片，风格是扁平插画，很多是场景加抽象词。
 整套流程（选词、出图、加字）都在这个仓库里，可以自己重做或换成别的词表。配合桌面小窗口程序
-[GlanceCards](https://github.com/MichaelMuClaude/glancecards) 使用：干活时随手瞄几眼，认识的点 **Got it** 就不再出现。
+[词卡（GlanceCards）](https://github.com/MichaelMuClaude/glancecards) 使用：干活时随手瞄几眼，认识的点 **Got it** 就不再出现。
 
 ## Download
 
