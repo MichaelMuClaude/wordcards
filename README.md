@@ -1,6 +1,6 @@
 # wordcards
 
-2271 picture cards for everyday English words, and the pipeline that made them.
+9569 picture cards for everyday English words, and the pipeline that made them.
 
 Each card is a picture with the word, its phonetics and its Chinese meaning underneath. The pictures
 are AI-generated. Set 1 (771 cards) is everyday nouns picked from a dictionary by script and then
@@ -8,7 +8,9 @@ reviewed by hand; set 2 (500 cards) was written by hand and adds the basics that
 nouns, jobs and people, actions, adjectives, colours and shapes, seasons and position words; set 3
 (500 cards, also by hand) goes further: more animals, nature, food, clothes, places and vehicles, tools,
 body parts, feelings, actions and adjectives. Set 4 (500 cards, by hand again) adds world foods, tools, tech, vehicles, gems and plants,
-fantasy characters, sports and instruments. Everything here is open so you can rebuild it, change it or make your own set.
+fantasy characters, sports and instruments. Set 5 (7298 cards) is not ours: it is the illustrated
+vocabulary of [Word Atlas](https://github.com/designfuchen/word-atlas) (CC BY 4.0), reformatted as cards in the same
+layout, in a different (flat illustration) style. Everything here is open so you can rebuild it, change it or make your own set.
 
 ![Some cards from set 1](docs/overview.jpg)
 
@@ -18,18 +20,23 @@ fantasy characters, sports and instruments. Everything here is open so you can r
 
 ![Some cards from set 4](docs/overview4.jpg)
 
-Made to be shown one after another on the desktop by [wordnote](https://github.com/MichaelMuClaude/wordnote),
-a small sticky-note app: you glance at the cards while you work, and click **Got it** on the ones you
+![Some cards from set 5 (Word Atlas)](docs/overview5.jpg)
+
+Made to be shown one after another on the desktop by [GlanceCards](https://github.com/MichaelMuClaude/glancecards),
+a small desktop card window: you glance at the cards while you work, and click **Got it** on the ones you
 already know.
 
 ## 中文简介
 
-共 2271 张日常英语卡片：一张图配上单词、音标和中文释义，图片由 AI 生成。
+共 9569 张日常英语卡片：一张图配上单词、音标和中文释义，图片由 AI 生成。
 第一组 771 张是日常名词，先用脚本从 ECDICT 词典里筛选，再人工逐个审过（只留生活里看得见、画得出来的东西）；
 第二组 500 张是手写的名单，补上第一组漏掉的基础词：更多名词、职业和人物、动作、形容词、颜色和形状、季节和方位词；
-第三组 500 张同样手写，继续补：更多动物、自然景物、食物、衣服、场所和交通工具、工具、身体部位、情绪、动作和形容词。
-整套流程（选词、出图、加字）都在这个仓库里，可以自己重做或换成别的词表。配合桌面便签小程序
-[wordnote](https://github.com/MichaelMuClaude/wordnote) 使用：干活时随手瞄几眼，认识的点 **Got it** 就不再出现。
+第三组 500 张同样手写，继续补：更多动物、自然景物、食物、衣服、场所和交通工具、工具、身体部位、情绪、动作和形容词；
+第四组 500 张继续手写：世界美食、工具、科技、交通工具、宝石和花木、幻想角色、运动和乐器。
+第五组 7298 张不是我们画的，来自开源项目 [Word Atlas（词光）](https://github.com/designfuchen/word-atlas)（CC BY 4.0）：
+我们只把它的插画和词条按同样的版式做成卡片，风格是扁平插画，很多是场景加抽象词。
+整套流程（选词、出图、加字）都在这个仓库里，可以自己重做或换成别的词表。配合桌面小窗口程序
+[GlanceCards](https://github.com/MichaelMuClaude/glancecards) 使用：干活时随手瞄几眼，认识的点 **Got it** 就不再出现。
 
 ## Download
 
@@ -46,8 +53,10 @@ The pictures are too big for the repository, so they are attached to the
 | `wordcards-v1.2-set3-pictures-only.zip` (v1.2.0) | set 3: the same 500 pictures without text | about 74 MB |
 | `wordcards-v1.3-set4-cards.zip` (v1.3.0) | set 4: 500 finished cards | about 81 MB |
 | `wordcards-v1.3-set4-pictures-only.zip` (v1.3.0) | set 4: the same 500 pictures without text | about 71 MB |
+| `wordcards-v1.4-set5-wordatlas-cards.zip` (v1.4.0) | set 5: 7298 cards from Word Atlas, 512x702 JPEG, files named `wa_<id>.jpg` | about 570 MB |
 
-The four sets have no words in common, so you can unzip all of them into one folder.
+Sets 1 to 4 have no words in common, so you can unzip them into one folder. Set 5 shares 1275 words with them (a
+different picture each), which is why its files start with `wa_`; they can go into the same folder too.
 
 ## What is in this repository
 
@@ -63,6 +72,7 @@ The four sets have no words in common, so you can unzip all of them into one fol
 | `data/set3/specs/` | the hand-written set 3 word lists (`word\|Chinese\|prompt`), and `fixes.txt` with the prompts rewritten after the first drawing round |
 | `data/set4/cards.tsv` | set 4: the same columns as above |
 | `data/set4/specs/` | the hand-written set 4 word lists (`word\|Chinese\|prompt`), and `fixes.txt` with the prompts rewritten after the first drawing round |
+| `data/set5/cards.tsv` | set 5 (Word Atlas): word, British IPA, first Chinese meaning, topic, CEFR level, Word Atlas id |
 | `scripts/` | the pipeline steps below |
 | `workflow/z_image_turbo_api.json` | the ComfyUI graph used for every picture (API format) |
 
@@ -107,7 +117,18 @@ fantasy characters, body and medical words, sports and instruments, actions and 
 candidates were cut while writing the list (duplicates of earlier sets, words ECDICT lacks, and words
 that would not draw well). `bassoon` was replaced by `cowbell` because the model drew a clarinet twice.
 
-**All sets**
+**Set 5 (from Word Atlas)**
+
+Not made here. [Word Atlas](https://github.com/designfuchen/word-atlas) by designfuchen is an illustrated
+IELTS vocabulary of 7298 words with AI-made illustrations (flat mid-century style, 512 px), published under
+CC BY 4.0. `scripts/08_build_set5_wordatlas.py` takes a clone of that repository and turns every entry into a
+card in our layout: the picture, the word, the British IPA and the first Chinese meaning, written to
+`data/set5/cards.tsv` and one `wa_<id>.jpg` per word. The pictures are Word Atlas's own and are not edited. Many of
+them show a scene rather than one object, and many of the words are abstract (society, thinking, economy), so
+they are harder to read at a glance than sets 1 to 4. The label script was changed to scale to the picture
+width (`label_card` in `scripts/04_label.py`); its output for 1024 px pictures is unchanged.
+
+**Sets 1 to 4**
 
 3. **Draw** (`scripts/03_generate.py`). One 1024x1024 picture per word with a local
    [ComfyUI](https://github.com/comfyanonymous/ComfyUI) server running Z-Image-Turbo (9 steps, about 3
@@ -142,6 +163,9 @@ python scripts/06_build_set3.py ecdict.csv                                   # -
 # set 4
 python scripts/07_build_set4.py ecdict.csv                                   # -> data/set4/cards.tsv
 
+# set 5 (needs a clone of https://github.com/designfuchen/word-atlas)
+python scripts/08_build_set5_wordatlas.py ../word-atlas cards5/              # -> data/set5/cards.tsv and cards5/wa_*.jpg
+
 # draw (ComfyUI running with z_image_turbo_bf16, qwen_3_4b and z_image_ae installed), then add the text strip
 python scripts/03_generate.py data/cards.tsv raw/
 python scripts/04_label.py data/cards.tsv raw/ cards/
@@ -165,6 +189,9 @@ Step 4 expects DejaVu Sans and Noto Sans CJK at the paths at the top of `scripts
   `scar` is only a mild mark on a knee and `checkers` is drawn as a Chinese-checkers-style board.
   I checked every picture as a thumbnail, not at full size. Actions and adjectives are harder to draw than
   objects, so set 2 has more cases where the picture only roughly fits.
+- **Word Atlas is not reviewed by us.** Its author says the texts, pictures and recordings were made with AI and
+  not checked entry by entry, and we did not check them either. The Chinese on a set 5 card is the first meaning
+  only; many words have more.
 - **People.** Sets 2, 3 and 4 have pictures of people. They are AI-generated faces, not real photographs of anyone.
 - **Rest the GPU.** Drawing 500 pictures back to back at full load crashed one machine's GPU twice (a hard
   freeze). Set 4 was drawn with `--pause 3 --rest-every 20` (3 s after each picture, 60 s after every 20) and
@@ -182,8 +209,10 @@ Step 4 expects DejaVu Sans and Noto Sans CJK at the paths at the top of `scripts
 ## License and credits
 
 - Code in this repository: MIT, see [LICENSE](LICENSE).
-- The picture cards, the `cards.tsv` files, `data/zh.json`, the set 2, set 3 and set 4 word lists and the review files:
+- The picture cards of sets 1 to 4, their `cards.tsv` files, `data/zh.json`, the set 2, 3 and 4 word lists and the review files:
   CC BY 4.0 (credit "wordcards by Michael Mu"). The pictures are AI-generated, and how copyright
   applies to such images differs between countries.
+- Set 5 (`data/set5/`, the `wa_*` cards): the words, pictures and meanings are from Word Atlas, CC BY 4.0, "Word Atlas
+  contributors"; we only reformatted them (see NOTICE.md).
 - The word list, phonetics and frequency ranks are derived from ECDICT (MIT) and the category filter
   uses WordNet. Full credits and the licenses of the tools and models used are in [NOTICE.md](NOTICE.md).
