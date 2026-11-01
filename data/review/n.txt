@@ -1,5 +1,4 @@
 KEEP: nail napkin necklace necktie needle nest net noodle nose notepad nut
-HINT: nail=iron nails in a pile
 HINT: napkin=a folded cloth napkin on a plate
 HINT: necklace=a pearl necklace
 HINT: necktie=a red necktie

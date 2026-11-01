@@ -17,6 +17,5 @@ convertible|敞篷车|!a red convertible car driving on a coastal road
 combine|联合收割机|!a combine harvester working in a wheat field
 snowplow|扫雪车|!a snowplow truck clearing a road
 stagecoach|驿马车|!a stagecoach pulled by horses
-chariot|战车|!an ancient chariot pulled by two horses
 lifebuoy|救生圈|a red and white lifebuoy ring
 lifejacket|救生衣|an orange life jacket

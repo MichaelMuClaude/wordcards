@@ -55,7 +55,6 @@ hatch|孵化|!a chick hatching from an egg
 smash|砸碎|!a hammer smashing a plate
 stack|堆叠|!a person stacking boxes
 sort|分类|!a person sorting colored balls into baskets
-count|数数|!a child counting on fingers
 measure|测量|!a person measuring a board with a tape measure
 weigh|称重|!a person weighing fruit on a scale
 greet|问候|!two people greeting each other with a handshake

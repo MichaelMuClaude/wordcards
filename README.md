@@ -1,13 +1,13 @@
 # wordcards
 
-9569 picture cards for everyday English words, and the pipeline that made them.
+9556 picture cards for everyday English words, and the pipeline that made them.
 
 Each card is a picture with the word, its phonetics and its Chinese meaning underneath. The pictures
-are AI-generated. Set 1 (771 cards) is everyday nouns picked from a dictionary by script and then
-reviewed by hand; set 2 (500 cards) was written by hand and adds the basics that set 1 missed: more
+are AI-generated. Set 1 (766 cards) is everyday nouns picked from a dictionary by script and then
+reviewed by hand; set 2 (496 cards) was written by hand and adds the basics that set 1 missed: more
 nouns, jobs and people, actions, adjectives, colours and shapes, seasons and position words; set 3
-(500 cards, also by hand) goes further: more animals, nature, food, clothes, places and vehicles, tools,
-body parts, feelings, actions and adjectives. Set 4 (500 cards, by hand again) adds world foods, tools, tech, vehicles, gems and plants,
+(499 cards, also by hand) goes further: more animals, nature, food, clothes, places and vehicles, tools,
+body parts, feelings, actions and adjectives. Set 4 (497 cards, by hand again) adds world foods, tools, tech, vehicles, gems and plants,
 fantasy characters, sports and instruments. Set 5 (7298 cards) is not ours: it is the illustrated
 vocabulary of [Word Atlas](https://github.com/designfuchen/word-atlas) (CC BY 4.0), reformatted as cards in the same
 layout, in a different (flat illustration) style. Everything here is open so you can rebuild it, change it or make your own set.
@@ -28,11 +28,11 @@ already know.
 
 ## 中文简介
 
-共 9569 张日常英语卡片：一张图配上单词、音标和中文释义，图片由 AI 生成。
-第一组 771 张是日常名词，先用脚本从 ECDICT 词典里筛选，再人工逐个审过（只留生活里看得见、画得出来的东西）；
-第二组 500 张是手写的名单，补上第一组漏掉的基础词：更多名词、职业和人物、动作、形容词、颜色和形状、季节和方位词；
-第三组 500 张同样手写，继续补：更多动物、自然景物、食物、衣服、场所和交通工具、工具、身体部位、情绪、动作和形容词；
-第四组 500 张继续手写：世界美食、工具、科技、交通工具、宝石和花木、幻想角色、运动和乐器。
+共 9556 张日常英语卡片：一张图配上单词、音标和中文释义，图片由 AI 生成。
+第一组 766 张是日常名词，先用脚本从 ECDICT 词典里筛选，再人工逐个审过（只留生活里看得见、画得出来的东西）；
+第二组 496 张是手写的名单，补上第一组漏掉的基础词：更多名词、职业和人物、动作、形容词、颜色和形状、季节和方位词；
+第三组 499 张同样手写，继续补：更多动物、自然景物、食物、衣服、场所和交通工具、工具、身体部位、情绪、动作和形容词；
+第四组 497 张继续手写：世界美食、工具、科技、交通工具、宝石和花木、幻想角色、运动和乐器。
 第五组 7298 张不是我们画的，来自开源项目 [Word Atlas（词光）](https://github.com/designfuchen/word-atlas)（CC BY 4.0）：
 我们只把它的插画和词条按同样的版式做成卡片，风格是扁平插画，很多是场景加抽象词。
 整套流程（选词、出图、加字）都在这个仓库里，可以自己重做或换成别的词表。配合桌面小窗口程序
@@ -57,6 +57,11 @@ The pictures are too big for the repository, so they are attached to the
 
 Sets 1 to 4 have no words in common, so you can unzip them into one folder. Set 5 shares 1275 words with them (a
 different picture each), which is why its files start with `wa_`; they can go into the same folder too.
+
+The zips above still hold 13 cards whose picture turned out wrong in a later review and that have since
+been taken out of the word lists (see "Removed cards" below). Delete them after unzipping: `bone`, `nail`,
+`flute`, `horseshoe`, `worm` (set 1), `tadpole`, `puma`, `joystick`, `shepherd` (set 2), `count` (set 3),
+`piccolo`, `chariot`, `monocle` (set 4).
 
 ## What is in this repository
 
@@ -116,6 +121,16 @@ office and tech items, vehicles, places, gems, trees and flowers, sky and weathe
 fantasy characters, body and medical words, sports and instruments, actions and adjectives. About 90 more
 candidates were cut while writing the list (duplicates of earlier sets, words ECDICT lacks, and words
 that would not draw well). `bassoon` was replaced by `cowbell` because the model drew a clarinet twice.
+
+**Removed cards**
+
+A review of every card in sets 1 to 4 (November 2026) found 13 whose picture shows something else, and
+they were taken out of the lists: `bone` (a skull), `nail` (screws), `flute` and `piccolo` (clarinet-like
+pipes held upright), `horseshoe` (two separate bars), `worm` (has legs), `tadpole` (a frog), `puma`
+(spotted like a cheetah), `joystick` (a gamepad), `shepherd` (sheep but no shepherd), `count` (a child
+hiding its eyes), `chariot` (a covered wagon) and `monocle` (a pair of glasses). Set 1's words are removed
+in `data/review/extra.txt`; the others are gone from their spec files. Set 5 still has its own `bone`,
+`nail`, `flute`, `worm`, `shepherd` and `count` cards.
 
 **Set 5 (from Word Atlas)**
 

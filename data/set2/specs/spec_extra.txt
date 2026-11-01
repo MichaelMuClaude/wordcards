@@ -9,10 +9,8 @@ duckling|小鸭|a yellow duckling
 foal|小马驹|a foal standing beside its mother
 stingray|黄貂鱼|!a stingray swimming over the sea floor
 bumblebee|大黄蜂|a bumblebee on a flower
-puma|美洲狮|a puma standing
 dachshund|腊肠犬|a dachshund dog
 projector|投影仪|a projector
-joystick|游戏摇杆|a gaming joystick
 phonograph|留声机|a vintage phonograph with a horn
 abacus|算盘|a wooden abacus
 jukebox|点唱机|a retro jukebox

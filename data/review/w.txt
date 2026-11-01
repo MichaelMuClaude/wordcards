@@ -21,6 +21,5 @@ HINT: wok=a wok with stir-fried vegetables
 HINT: wolf=a grey wolf
 HINT: woodpecker=a woodpecker on a tree
 HINT: wool=a ball of wool yarn
-HINT: worm=an earthworm
 HINT: wreath=a Christmas wreath
 HINT: wristwatch=a wristwatch

@@ -57,7 +57,6 @@ gardener|园丁|!a gardener watering flowers
 mechanic|机修工|a mechanic in overalls with a wrench
 miner|矿工|a miner with a helmet lamp and a pickaxe
 tailor|裁缝|a tailor with a measuring tape
-shepherd|牧羊人|!a shepherd with a flock of sheep
 boxer|拳击手|a boxer in gloves in a fighting stance
 swimmer|游泳运动员|a swimmer in goggles and a swim cap
 skier|滑雪者|!a skier going down a snowy slope

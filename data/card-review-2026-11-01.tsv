@@ -1,0 +1,80 @@
+word	set	kind	note
+bone	1	wrong	shows a skull (头骨), not a bone
+chariot	4	wrong	covered wagon/cart, not a two-wheeled war chariot
+count	3	wrong	child covering eyes (hide-and-seek), no counting visible
+flute	1	wrong	vertical end-blown pipe like a clarinet/recorder; a flute is held sideways
+horseshoe	1	wrong	two separate curved bars like brackets, not a horseshoe
+joystick	2	wrong	shows a gamepad (set 4 already has gamepad); a joystick is a stick controller
+monocle	4	wrong	shows a pair of glasses; a monocle is a single lens
+nail	1	wrong	threaded screws, not nails
+piccolo	4	wrong	vertical keyed instrument with a mouthpiece like a clarinet; a piccolo is a small side-blown flute
+puma	2	wrong	spotted cat that looks like a cheetah; a puma is plain tan
+shepherd	2	wrong	only a flock of sheep, no shepherd in the picture
+tadpole	2	wrong	shows a frog-shaped animal with four legs, not a tadpole
+worm	1	wrong	many small legs, looks like a millipede
+ball	1	zh	zh says 足球 (football); picture is a football, word is ball (球)
+brush	2	zh	zh 梳子 means comb; hairbrush is 发梳 / brush is 刷子
+clover	1	zh	picture is a three-leaf clover, zh says 四叶草 (should be 三叶草)
+dresser	1	zh	picture is a chest of drawers (US dresser) but zh says 梳妆台
+dumpling	1	zh	picture is steamed xiaolongbao/baozi buns, zh says 饺子
+ox	3	zh	zh 公牛 means bull; ox is 牛 / 阉牛 (a working ox)
+rattle	3	zh	picture is a baby rattle; zh 拨浪鼓 is a pellet drum (摇铃 fits)
+cappuccino	1	ipa	/kæpjˈtʃiːnəj/ broken, should be /ˌkæpʊˈtʃiːnəʊ/
+clothespin	3	ipa	/ˈkləjðzpɪn/ broken, should be /ˈkləʊðzpɪn/
+countertop	1	ipa	/ˈkajntətɔp/ is broken, should be /ˈkaʊntətɒp/
+crowbar	3	ipa	/ˈkrəjbɑː(r)/ broken, should be /ˈkrəʊbɑː(r)/
+hoodie	3	ipa	/ˈhjdɪ/ broken, should be /ˈhʊdi/
+lifeboat	3	ipa	/ˈlaɪfbəjt/ broken, should be /ˈlaɪfbəʊt/
+lotus	1	ipa	/ˈləjtəs/ is broken, should be /ˈləʊtəs/
+pesto	3	ipa	/ˈpestəj/ broken, should be /ˈpestəʊ/
+pillowcase	3	ipa	/ˈpɪləjkeɪs/ broken, should be /ˈpɪləʊkeɪs/
+toaster	2	ipa	/ˈtəjstə(r)/ broken, should be /ˈtəʊstə(r)/
+vacuum	2	ipa	IPA has a doubled stress mark (/ˈˈvækjʊəm/)
+pirate	2	likeness	face looks like a famous film pirate character (noted before)
+airport	1	weak	shows only an airplane in the sky, no airport
+albatross	4	weak	bird has a yellow head like a gannet
+balcony	1	weak	just a small railing box, not clearly a balcony
+bounce	2	weak	a still ball on the ground, no sense of bouncing
+bugle	3	weak	valved horn that looks like a trumpet (a bugle has no valves)
+cello	1	weak	alone with no scale it looks like a violin
+cloak	4	weak	looks like a navy hoodie/parka, not a cloak
+cold	2	weak	glass of water with ice reads as water, not cold
+doorbell	1	weak	just a white plastic box with a button
+eclipse	4	weak	black disc with a white dot in the middle, unclear
+firefly	1	weak	looks like a plain moth, not glowing
+firehouse	4	weak	mostly a fire truck; reads as fire engine
+flip	3	weak	pancakes sitting in a pan, nothing being flipped
+gauze	4	weak	looks like a roll of tape
+glide	4	weak	a swan floating on water, not gliding
+honk	4	weak	hand on the steering wheel, honking not visible
+juicer	3	weak	mostly a pile of oranges, the juicer is hard to see
+lagoon	4	weak	just a beach and open sea
+loose	4	weak	a plain sock; looseness not shown
+mason	4	weak	bricklayer picture; zh 石匠 means stonemason
+monument	1	weak	shows a single statue rather than a monument
+mummy	4	weak	bandaged object with a gold face, hard to read as a mummy
+phonograph	2	weak	only the horn is visible, no record player
+pinch	4	weak	finger touching a cheek, not pinching
+pluck	3	weak	hands holding a daisy; reads as hold
+porch	1	weak	table and two chairs in an empty room, no house/porch
+round	3	weak	clock/egg/orange, unclear concept
+sari	4	weak	just a folded red cloth
+saucepan	1	weak	pot with two side handles (a saucepan has one long handle)
+scythe	4	weak	short hook on a pole, reads as a pick
+shears	4	weak	small pliers-like snips, not big shears
+sickle	3	weak	looks like a curved knife/machete, not a crescent sickle
+sidecar	4	weak	looks like a three-wheeled scooter, not a motorbike with a sidecar
+silk	1	weak	white roll that looks like plastic wrap or paper towel, not silk
+sitar	4	weak	looks more like a banjo/pipa
+smoke	1	weak	mostly a campfire with flames; reads as fire
+steep	4	weak	winding mountain road, not clearly steep
+striped	4	weak	shirt stripes are too faint to see at card size
+tambourine	2	weak	plain ring with no visible jingles
+tuba	2	weak	small horn that looks more like a euphonium/baritone
+tureen	4	weak	looks the same as the casserole card next to it
+unicorn	3	weak	horn is tiny and hard to see
+vein	4	weak	plain forearm, no vein visible
+wide	2	weak	just a stretch of brown water, width not shown
+wing	1	weak	shows a whole bird in flight rather than a wing
+football	4	note	picture and zh are American football (橄榄球); in British English football means soccer
+milk	1	minor	carton has garbled fake Chinese text

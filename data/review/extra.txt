@@ -1,4 +1,4 @@
-REMOVE: asylum altar armpit
+REMOVE: asylum altar armpit bone nail flute horseshoe worm
 HINT: ball=a soccer ball on grass
 HINT: bag=a canvas shopping bag
 HINT: beak=a bird's beak, close-up
@@ -7,7 +7,6 @@ HINT: belt=a leather belt
 HINT: box=a cardboard box
 HINT: bowl=a ceramic bowl
 HINT: bottle=a plastic water bottle
-HINT: bone=a white bone
 HINT: brain=a human brain model
 HINT: building=a tall office building
 HINT: button=colorful shirt buttons

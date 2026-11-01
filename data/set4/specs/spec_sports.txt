@@ -21,7 +21,6 @@ bonfire|篝火|!a big bonfire on a beach at night
 sparkler|烟花棒|a lit sparkler in the dark
 firecracker|鞭炮|red firecrackers
 pinata|皮纳塔|a colorful pinata hanging from a tree
-piccolo|短笛|a piccolo flute
 cowbell|牛铃|a brass cowbell hanging from a leather strap
 recorder|竖笛|a wooden recorder flute
 gong|锣|a large bronze gong
