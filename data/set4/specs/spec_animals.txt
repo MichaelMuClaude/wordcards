@@ -36,7 +36,7 @@ cicada|蝉|a cicada on a tree trunk
 locust|蝗虫|a locust on a green stem
 hornet|大黄蜂|a hornet on a leaf
 gerbil|沙鼠|a gerbil standing on sand
-chinchilla|龙猫|a chinchilla with soft grey fur
+chinchilla|毛丝鼠（龙猫）|a chinchilla with soft grey fur
 dingo|澳洲野犬|!a dingo standing in the red desert
 coyote|郊狼|!a coyote standing in a desert at sunset
 jackal|豺|a jackal standing on dry grass
