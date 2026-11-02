@@ -1,0 +1,6 @@
+# Prompts rewritten after the first drawing round (2026-11-02).
+canister=three plain white ceramic kitchen canisters with wooden lids, no writing on them
+canopy=!a striped fabric awning canopy stretched over the front window of a small shop
+clipper=a small silver fingernail clipper lying on a white surface, close-up
+buzzer=!a finger pressing a round doorbell buzzer button on a wall beside a front door
+bumper=a close-up of the chrome-grey front bumper of a white car, seen from the front at ground level

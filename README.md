@@ -10,7 +10,9 @@ nouns, jobs and people, actions, adjectives, colours and shapes, seasons and pos
 body parts, feelings, actions and adjectives. Set 4 (497 cards, by hand again) adds world foods, tools, tech, vehicles, gems and plants,
 fantasy characters, sports and instruments. Set 5 (7298 cards) is not ours: it is the illustrated
 vocabulary of [Word Atlas](https://github.com/designfuchen/word-atlas) (CC BY 4.0), reformatted as cards in the same
-layout, in a different (flat illustration) style. Everything here is open so you can rebuild it, change it or make your own set.
+layout, in a different (flat illustration) style. Set 6 (50 cards, drawn locally) goes on through the ECDICT
+candidate list in alphabetical order (A to "freeway"), keeping everyday-life words that have no card yet: things
+at home, food, getting around and personal care. Everything here is open so you can rebuild it, change it or make your own set.
 
 ![Some cards from set 1](docs/overview.jpg)
 

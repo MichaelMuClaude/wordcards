@@ -24,6 +24,8 @@ OVERRIDE = {
     "tiramisu": "/ˌtɪrəmɪˈsuː/", "cockatoo": "/ˌkɒkəˈtuː/", "manatee": "/ˌmænəˈtiː/", "mozzarella": "/ˌmɒtsəˈrelə/",
     "feta": "/ˈfetə/", "orangutan": "/ɔːˈræŋətæn/", "rapids": "/ˈræpɪdz/", "kumquat": "/ˈkʌmkwɒt/", "mason": "/ˈmeɪsn/",
     "trucker": "/ˈtrʌkə/",
+    "cilantro": "/sɪˈlæntrəʊ/", "coffeehouse": "/ˈkɒfihaʊs/", "curbside": "/ˈkɜːbsaɪd/", "footwear": "/ˈfʊtweə/",
+    "candlelight": "/ˈkændlaɪt/", "corduroy": "/ˈkɔːdərɔɪ/", "foil": "/fɔɪl/", "dumpster": "/ˈdʌmpstə/",
 }
 
 
