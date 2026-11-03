@@ -1,6 +1,6 @@
 # wordcards
 
-9556 picture cards for everyday English words, and the pipeline that made them.
+9706 picture cards for everyday English words, and the pipeline that made them.
 
 Each card is a picture with the word, its phonetics and its Chinese meaning underneath. The pictures
 are AI-generated. Set 1 (766 cards) is everyday nouns picked from a dictionary by script and then
@@ -13,6 +13,9 @@ vocabulary of [Word Atlas](https://github.com/designfuchen/word-atlas) (CC BY 4.
 layout, in a different (flat illustration) style. Set 6 (50 cards, drawn locally) goes on through the ECDICT
 candidate list in alphabetical order (A to "freeway"), keeping everyday-life words that have no card yet: things
 at home, food, getting around and personal care; set 7 (50 more, "fresco" to "pendulum") continues the same way.
+Set 8 (50 cards) is a theme set about cars and driving, with Australian names: parts of a car (steering wheel,
+handbrake, glovebox, bull bar), kinds of car (sedan, hatchback, SUV) and things on the road (give way sign, speed
+bump, zebra crossing, roadworks, L plates). It is not in a release zip yet.
 Everything here is open so you can rebuild it, change it or make your own set.
 
 ![Some cards from set 1](docs/overview.jpg)
@@ -31,13 +34,15 @@ already know.
 
 ## 中文简介
 
-共 9556 张日常英语卡片：一张图配上单词、音标和中文释义，图片由 AI 生成。
+共 9706 张日常英语卡片：一张图配上单词、音标和中文释义，图片由 AI 生成。
 第一组 766 张是日常名词，先用脚本从 ECDICT 词典里筛选，再人工逐个审过（只留生活里看得见、画得出来的东西）；
 第二组 496 张是手写的名单，补上第一组漏掉的基础词：更多名词、职业和人物、动作、形容词、颜色和形状、季节和方位词；
 第三组 499 张同样手写，继续补：更多动物、自然景物、食物、衣服、场所和交通工具、工具、身体部位、情绪、动作和形容词；
 第四组 497 张继续手写：世界美食、工具、科技、交通工具、宝石和花木、幻想角色、运动和乐器。
 第五组 7298 张不是我们画的，来自开源项目 [Word Atlas（词光）](https://github.com/designfuchen/word-atlas)（CC BY 4.0）：
 我们只把它的插画和词条按同样的版式做成卡片，风格是扁平插画，很多是场景加抽象词。
+第六组、第七组各 50 张，在本地画：沿 ECDICT 候选词表按字母顺序往下走（第六组 A 到 freeway，第七组 fresco 到 pendulum），只留生活里常用、画得出来的词；
+第八组 50 张是专题：车和开车，用澳洲说法，包括车上的部件（方向盘、手刹、手套箱、防撞杠）、车型（轿车、两厢车、SUV）和路上的东西（让行标志、减速带、斑马线、道路施工、L 牌），还没有打包发布。
 整套流程（选词、出图、加字）都在这个仓库里，可以自己重做或换成别的词表。配合桌面小窗口程序
 [词卡（GlanceCards）](https://github.com/MichaelMuClaude/glancecards) 使用：干活时随手瞄几眼，认识的点 **Got it** 就不再出现。
 

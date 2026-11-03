@@ -66,11 +66,12 @@ def main():
     made = 0
     for r in csv.DictReader(open(args.cards_tsv, encoding="utf-8"), delimiter="\t"):
         word = r["word"]
-        src = raw / f"{word}.png"
+        name = f"{word.replace(' ', '-')}.png"
+        src = raw / name
         if not src.exists():
             print("missing picture:", word)
             continue
-        label_card(Image.open(src), word, r["ipa"], r["zh"]).save(out / f"{word}.png")
+        label_card(Image.open(src), word, r["ipa"], r["zh"]).save(out / name)
         made += 1
     print("labeled", made)
 

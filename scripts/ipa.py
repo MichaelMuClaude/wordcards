@@ -27,6 +27,17 @@ OVERRIDE = {
     "cilantro": "/sɪˈlæntrəʊ/", "coffeehouse": "/ˈkɒfihaʊs/", "curbside": "/ˈkɜːbsaɪd/", "footwear": "/ˈfʊtweə/",
     "candlelight": "/ˈkændlaɪt/", "corduroy": "/ˈkɔːdərɔɪ/", "foil": "/fɔɪl/", "dumpster": "/ˈdʌmpstə/",
     "graffiti": "/ɡrəˈfiːtɪ/", "khakis": "/ˈkɑːkɪz/", "intercom": "/ˈɪntəkɒm/", "kiosk": "/ˈkiːɒsk/",
+    "glovebox": "/ˈɡlʌvbɒks/", "seatbelt": "/ˈsiːtbelt/", "steering wheel": "/ˈstɪərɪŋ wiːl/", "fuel gauge": "/ˈfjuːəl ɡeɪdʒ/",
+    "handbrake": "/ˈhændbreɪk/", "hazard lights": "/ˈhæzəd laɪts/", "rear-view mirror": "/ˌrɪə vjuː ˈmɪrə/",
+    "wing mirror": "/ˌwɪŋ ˈmɪrə/", "cup holder": "/ˈkʌp həʊldə/", "sun visor": "/ˈsʌn vaɪzə/", "airbag": "/ˈeəbæɡ/",
+    "sunroof": "/ˈsʌnruːf/", "roof rack": "/ˈruːf ræk/", "number plate": "/ˈnʌmbə pleɪt/", "hatchback": "/ˈhætʃbæk/",
+    "bull bar": "/ˈbʊl bɑː/", "jumper leads": "/ˈdʒʌmpə liːdz/", "car jack": "/ˈkɑː dʒæk/", "spare tyre": "/ˌspeə ˈtaɪə/",
+    "flat tyre": "/ˌflæt ˈtaɪə/", "tow bar": "/ˈtəʊ bɑː/", "SUV": "/ˌes juː ˈviː/", "tow truck": "/ˈtəʊ trʌk/", "car wash": "/ˈkɑː wɒʃ/",
+    "petrol station": "/ˈpetrəl steɪʃn/", "jerry can": "/ˈdʒeri kæn/", "carport": "/ˈkɑːpɔːt/",
+    "parking meter": "/ˈpɑːkɪŋ miːtə/", "speed camera": "/ˈspiːd kæmərə/", "speed bump": "/ˈspiːd bʌmp/",
+    "traffic lights": "/ˈtræfɪk laɪts/", "traffic jam": "/ˈtræfɪk dʒæm/", "stop sign": "/ˈstɒp saɪn/",
+    "give way sign": "/ˌɡɪv ˈweɪ saɪn/", "zebra crossing": "/ˌzebrə ˈkrɒsɪŋ/", "roadworks": "/ˈrəʊdwɜːks/",
+    "L plates": "/ˈel pleɪts/", "dashcam": "/ˈdæʃkæm/", "car seat": "/ˈkɑː siːt/", "drive-through": "/ˈdraɪv θruː/",
 }
 
 

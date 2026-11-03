@@ -56,7 +56,7 @@ def main():
     made = 0
     for i, r in enumerate(rows):
         word, prompt = r["word"], r["prompt"]
-        dest = out / f"{word}.png"
+        dest = out / f"{word.replace(' ', '-')}.png"
         if (only and word not in only) or dest.exists():
             continue
         scene = r.get("scene") == "y" or r["kind"] in ("nature", "phenomenon") or any(s in prompt for s in SCENE_WORDS)

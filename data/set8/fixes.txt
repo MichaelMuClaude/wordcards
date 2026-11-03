@@ -1,0 +1,11 @@
+# Prompts rewritten after the first drawing round (2026-11-03).
+# Second and third rounds for fuel gauge, speedometer, hazard lights. flat tyre was dropped for tow bar: three tries all drew a loose tyre or a full one.
+glovebox=!the passenger side of a car dashboard with the small glovebox compartment door hinged open below the dashboard, a car manual and sunglasses inside, view from the passenger seat
+handbrake=!inside a car, a hand pulling up the classic handbrake lever on the centre console between the two front seats, gearstick in front of it
+jumper leads=!two cars parked nose to nose with bonnets open, red and black jumper leads clamped from one car battery to the other, close view
+car jack=!a small silver scissor jack under the side of a car, the car lifted a little with one wheel off the ground, a man turning the jack handle on a driveway
+fuel gauge=close-up of a white analog car fuel gauge on the dashboard with only a big letter E on the left and a big letter F on the right, no numbers at all, a fuel pump icon in the middle, orange needle pointing at E
+speedometer=close-up of a modern car's digital speedometer on the dashboard showing the big number 60 and km/h underneath, glowing white on black
+hazard lights=close-up of a car's hazard lights button on the dashboard, a red triangle symbol on the button glowing, a finger pressing it
+indicator=!close-up of the front corner of a white car at an intersection, the small orange indicator lamp next to the headlight glowing brightly, signalling a turn
+speed camera=!a tall grey Australian roadside speed camera on a pole beside a highway, with a camera lens and flash unit in a box at the top, cars driving past
