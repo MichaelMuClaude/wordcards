@@ -57,8 +57,10 @@ The pictures are too big for the repository, so they are attached to the
 | `wordcards-v1.3-set4-cards.zip` (v1.3.0) | set 4: 500 finished cards | about 81 MB |
 | `wordcards-v1.3-set4-pictures-only.zip` (v1.3.0) | set 4: the same 500 pictures without text | about 71 MB |
 | `wordcards-v1.4-set5-wordatlas-cards.zip` (v1.4.0) | set 5: 7298 cards from Word Atlas, 512x702 JPEG, files named `wa_<id>.jpg` | about 570 MB |
+| `wordcards-v1.5-set6-set7-cards.zip` (v1.5.0) | sets 6 and 7: 100 finished cards, 1024x1404 JPEG | about 16 MB |
+| `wordcards-v1.5-set6-set7-pictures-only.zip` (v1.5.0) | sets 6 and 7: the same 100 pictures without text, 1024x1024 JPEG | about 14 MB |
 
-Sets 1 to 4 have no words in common, so you can unzip them into one folder. Set 5 shares 1275 words with them (a
+Sets 1 to 4, 6 and 7 have no words in common, so you can unzip them into one folder. Set 5 shares 1275 words with them (a
 different picture each), which is why its files start with `wa_`; they can go into the same folder too.
 
 The zips above still hold 13 cards whose picture turned out wrong in a later review and that have since
@@ -134,6 +136,8 @@ pipes held upright), `horseshoe` (two separate bars), `worm` (has legs), `tadpol
 hiding its eyes), `chariot` (a covered wagon) and `monocle` (a pair of glasses). Set 1's words are removed
 in `data/review/extra.txt`; the others are gone from their spec files. Set 5 still has its own `bone`,
 `nail`, `flute`, `worm`, `shepherd` and `count` cards.
+
+Set 7 draws `horseshoe` again, this time as one complete U-shaped shoe; its `horseshoe.jpg` in the v1.5.0 zip replaces the old set 1 file of the same name.
 
 **Set 5 (from Word Atlas)**
 
