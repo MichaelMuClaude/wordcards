@@ -12,7 +12,8 @@ fantasy characters, sports and instruments. Set 5 (7298 cards) is not ours: it i
 vocabulary of [Word Atlas](https://github.com/designfuchen/word-atlas) (CC BY 4.0), reformatted as cards in the same
 layout, in a different (flat illustration) style. Set 6 (50 cards, drawn locally) goes on through the ECDICT
 candidate list in alphabetical order (A to "freeway"), keeping everyday-life words that have no card yet: things
-at home, food, getting around and personal care. Everything here is open so you can rebuild it, change it or make your own set.
+at home, food, getting around and personal care; set 7 (50 more, "fresco" to "pendulum") continues the same way.
+Everything here is open so you can rebuild it, change it or make your own set.
 
 ![Some cards from set 1](docs/overview.jpg)
 

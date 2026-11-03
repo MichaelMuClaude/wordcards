@@ -1,0 +1,7 @@
+# Prompts rewritten after the first drawing round (2026-11-03).
+goatee=a studio portrait of a smiling man with smooth clean-shaven cheeks and a small pointed dark goatee beard on the chin only, plus a thin moustache
+hem=an extreme close-up of the stitched hem at the bottom edge of a blue jeans leg lying flat, the double stitching clearly visible
+horseshoe=a single complete rusty iron horseshoe in a U shape with nail holes, lying flat on a plain surface, seen from above
+leash=!a small brown dog walking on a footpath on a red leash held by a person's hand, only the hand and arm visible
+legging=a person's legs from the waist down wearing black leggings and white trainers, standing, no face
+pane=!a clean glass window pane in a white wooden frame, bright blue sky and green trees visible through the glass

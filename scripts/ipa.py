@@ -26,6 +26,7 @@ OVERRIDE = {
     "trucker": "/ˈtrʌkə/",
     "cilantro": "/sɪˈlæntrəʊ/", "coffeehouse": "/ˈkɒfihaʊs/", "curbside": "/ˈkɜːbsaɪd/", "footwear": "/ˈfʊtweə/",
     "candlelight": "/ˈkændlaɪt/", "corduroy": "/ˈkɔːdərɔɪ/", "foil": "/fɔɪl/", "dumpster": "/ˈdʌmpstə/",
+    "graffiti": "/ɡrəˈfiːtɪ/", "khakis": "/ˈkɑːkɪz/", "intercom": "/ˈɪntəkɒm/", "kiosk": "/ˈkiːɒsk/",
 }
 
 
