@@ -16,8 +16,7 @@ at home, food, getting around and personal care; set 7 (50 more, "fresco" to "pe
 Set 8 (50 cards) is a theme set about cars and driving, with Australian names: parts of a car (steering wheel,
 handbrake, glovebox, bull bar), kinds of car (sedan, hatchback, SUV) and things on the road (give way sign, speed
 bump, zebra crossing, roadworks, L plates).
-Set 9 (100 cards) goes back to the ECDICT list after set 7, from "penthouse" to "steeple". Sets 8 and 9 are not
-in a release zip yet.
+Set 9 (100 cards) goes back to the ECDICT list after set 7, from "penthouse" to "steeple".
 Everything here is open so you can rebuild it, change it or make your own set.
 
 ![Some cards from set 1](docs/overview.jpg)
@@ -45,7 +44,7 @@ already know.
 我们只把它的插画和词条按同样的版式做成卡片，风格是扁平插画，很多是场景加抽象词。
 第六组、第七组各 50 张，在本地画：沿 ECDICT 候选词表按字母顺序往下走（第六组 A 到 freeway，第七组 fresco 到 pendulum），只留生活里常用、画得出来的词；
 第八组 50 张是专题：车和开车，用澳洲说法，包括车上的部件（方向盘、手刹、手套箱、防撞杠）、车型（轿车、两厢车、SUV）和路上的东西（让行标志、减速带、斑马线、道路施工、L 牌）。
-第九组 100 张，接着第七组沿 ECDICT 候选词表往下走，从 penthouse 到 steeple。第八、九组还没有打包发布。
+第九组 100 张，接着第七组沿 ECDICT 候选词表往下走，从 penthouse 到 steeple。
 整套流程（选词、出图、加字）都在这个仓库里，可以自己重做或换成别的词表。配合桌面小窗口程序
 [词卡（GlanceCards）](https://github.com/MichaelMuClaude/glancecards) 使用：干活时随手瞄几眼，认识的点 **Got it** 就不再出现。
 
@@ -67,6 +66,8 @@ The pictures are too big for the repository, so they are attached to the
 | `wordcards-v1.4-set5-wordatlas-cards.zip` (v1.4.0) | set 5: 7298 cards from Word Atlas, 512x702 JPEG, files named `wa_<id>.jpg` | about 570 MB |
 | `wordcards-v1.5-set6-set7-cards.zip` (v1.5.0) | sets 6 and 7: 100 finished cards, 1024x1404 JPEG | about 16 MB |
 | `wordcards-v1.5-set6-set7-pictures-only.zip` (v1.5.0) | sets 6 and 7: the same 100 pictures without text, 1024x1024 JPEG | about 14 MB |
+| `wordcards-v1.6-set8-set9-cards.zip` (v1.6.0) | sets 8 and 9: 150 finished cards, 1024x1404 JPEG | about 27 MB |
+| `wordcards-v1.6-set8-set9-pictures-only.zip` (v1.6.0) | sets 8 and 9: the same 150 pictures without text, 1024x1024 JPEG | about 23 MB |
 
 Sets 1 to 4, 6 and 7 have no words in common, so you can unzip them into one folder. Set 5 shares 1275 words with them (a
 different picture each), which is why its files start with `wa_`; they can go into the same folder too.
