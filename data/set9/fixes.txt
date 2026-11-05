@@ -1,0 +1,10 @@
+# Prompts rewritten after the first drawing round (2026-11-05).
+# Second round for ramp, rind and shortcut (the first redraw still showed stairs, an uneaten slice and a plain path).
+penthouse=!the top floor of a tall apartment building with a glass penthouse and a rooftop terrace with plants and outdoor chairs, the floors below ordinary flats, close view of the top of the building at sunset
+ramp=!a man pushing a loaded hand trolley up a smooth sloping metal ramp into the back of a delivery truck, side view, the ramp is a flat slope with no steps
+rind=close-up of empty watermelon rinds on a plate, all the red flesh already eaten, only the green and pale white rind left in curved pieces
+rudder=close-up of the flat wooden rudder blade hanging at the stern of a small dinghy, the tiller handle attached on top, the blade going down into the water
+sleet=!close-up of icy sleet pellets and half-melted wet snow bouncing on a car bonnet and a footpath, grey cold day
+sardine=an open tin full of small silver sardines lying side by side in oil, a fork lifting one out, close-up
+shortcut=!a simple hand-drawn map on paper: a long winding road from a house to a shop, and a short straight red dotted line between them marked with an arrow, a finger pointing at the dotted line
+stalk=a bunch of fresh green celery stalks lying on a cutting board, one stalk cut, close-up

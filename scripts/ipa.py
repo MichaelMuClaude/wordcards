@@ -27,6 +27,8 @@ OVERRIDE = {
     "cilantro": "/sɪˈlæntrəʊ/", "coffeehouse": "/ˈkɒfihaʊs/", "curbside": "/ˈkɜːbsaɪd/", "footwear": "/ˈfʊtweə/",
     "candlelight": "/ˈkændlaɪt/", "corduroy": "/ˈkɔːdərɔɪ/", "foil": "/fɔɪl/", "dumpster": "/ˈdʌmpstə/",
     "graffiti": "/ɡrəˈfiːtɪ/", "khakis": "/ˈkɑːkɪz/", "intercom": "/ˈɪntəkɒm/", "kiosk": "/ˈkiːɒsk/",
+    "puree": "/ˈpjʊəreɪ/", "sketchbook": "/ˈsketʃbʊk/", "stairwell": "/ˈsteəwel/", "planetarium": "/ˌplænɪˈteərɪəm/",
+    "sandbar": "/ˈsændbɑː/", "rhododendron": "/ˌrəʊdəˈdendrən/", "refill": "/ˈriːfɪl/",
     "glovebox": "/ˈɡlʌvbɒks/", "seatbelt": "/ˈsiːtbelt/", "steering wheel": "/ˈstɪərɪŋ wiːl/", "fuel gauge": "/ˈfjuːəl ɡeɪdʒ/",
     "handbrake": "/ˈhændbreɪk/", "hazard lights": "/ˈhæzəd laɪts/", "rear-view mirror": "/ˌrɪə vjuː ˈmɪrə/",
     "wing mirror": "/ˌwɪŋ ˈmɪrə/", "cup holder": "/ˈkʌp həʊldə/", "sun visor": "/ˈsʌn vaɪzə/", "airbag": "/ˈeəbæɡ/",
