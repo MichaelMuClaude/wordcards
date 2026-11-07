@@ -4,6 +4,10 @@ import re
 
 # ECDICT entries that contain junk characters or two pronunciations: fixed by hand.
 OVERRIDE = {
+    # set 10
+    "stereo": "/ˈsteriəʊ/", "sweatshirt": "/ˈswetʃɜːt/", "watercolor": "/ˈwɔːtəkʌlə/", "trough": "/trɒf/",
+    "vinaigrette": "/ˌvɪnɪˈɡret/", "wildflower": "/ˈwaɪldflaʊə/", "woodwork": "/ˈwʊdwɜːk/",
+    "workhorse": "/ˈwɜːkhɔːs/", "whirlwind": "/ˈwɜːlwɪnd/", "whiskey": "/ˈwɪski/",
     "arugula": "/əˈruːɡələ/", "baguette": "/bæˈɡet/", "castle": "/ˈkɑːsl/", "curry": "/ˈkʌri/",
     "extinguisher": "/ɪkˈstɪŋɡwɪʃə(r)/", "garage": "/ˈɡærɑːʒ/", "hummingbird": "/ˈhʌmɪŋbɜːd/",
     "omelet": "/ˈɒmlɪt/", "seagull": "/ˈsiːɡʌl/", "suit": "/suːt/", "yogurt": "/ˈjɒɡət/",
